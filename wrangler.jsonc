@@ -1,0 +1,9 @@
+// Configuração do Cloudflare Workers: publica o site estático gerado em dist/ (npm run build).
+// Não há código de servidor; o Cloudflare só entrega os arquivos.
+{
+  "name": "artefatos-genshin",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
