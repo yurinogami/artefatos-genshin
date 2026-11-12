@@ -1,0 +1,3951 @@
+[
+ {
+  "id": "hu-tao",
+  "nome": "Hu Tao",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Crimson Witch of Flames",
+   "Marechaussee Hunter",
+   "Shimenawa's Reminiscence"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "eleMas": 0.6,
+   "atk_": 0.3,
+   "hp": 0.25
+  }
+ },
+ {
+  "id": "arlecchino",
+  "nome": "Arlecchino",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Fragment of Harmonic Whimsy",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.5,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "mavuika",
+  "nome": "Mavuika",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Obsidian Codex",
+   "Marechaussee Hunter",
+   "Crimson Witch of Flames",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.65,
+   "atk_": 0.65,
+   "atk": 0.25
+  },
+  "rotulo": "DPS",
+  "notas": "Não usa Recarga (sistema de Espírito de Luta). Proficiência rende até ~200 em times de Derreter/Vaporizar; fora deles, prefira ATQ%.",
+  "variantes": [
+   {
+    "id": "subdps",
+    "rotulo": "Sub-DPS",
+    "funcao": "Sub-DPS fora de campo",
+    "sets": [
+     "Scroll of the Hero of Cinder City",
+     "Obsidian Codex"
+    ],
+    "notas": "Pergaminho do Herói não acumula: se outro personagem do time usar, vá de Códice de Obsidiana."
+   },
+   {
+    "id": "suporte",
+    "rotulo": "Suporte",
+    "funcao": "Suporte (buff, aplicação Pyro, Pergaminho)",
+    "sets": [
+     "Scroll of the Hero of Cinder City"
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "pyro_dmg_",
+      "atk_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "critRate_": 0.85,
+     "critDMG_": 0.85,
+     "atk_": 0.8,
+     "eleMas": 0.75,
+     "atk": 0.3
+    },
+    "notas": "As fontes não separam suporte de sub-DPS: o kit é o mesmo. Aqui o Pergaminho é obrigatório, o cálice de ATQ% é aceito e ATQ/Proficiência pesam quase como crítico."
+   }
+  ]
+ },
+ {
+  "id": "neuvillette",
+  "nome": "Neuvillette",
+  "elemento": "Hydro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Marechaussee Hunter"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hydro_dmg_",
+    "hp_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "enerRech_": 0.4,
+   "hp": 0.25
+  }
+ },
+ {
+  "id": "furina",
+  "nome": "Furina",
+  "elemento": "Hydro",
+  "funcao": "Suporte / DPS secundário",
+  "sets": [
+   "Golden Troupe"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_",
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "enerRech_": 0.75,
+   "hp": 0.25
+  }
+ },
+ {
+  "id": "yelan",
+  "nome": "Yelan",
+  "elemento": "Hydro",
+  "funcao": "DPS secundário",
+  "sets": [
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "enerRech_": 0.75,
+   "hp": 0.25
+  }
+ },
+ {
+  "id": "kokomi",
+  "nome": "Sangonomiya Kokomi",
+  "elemento": "Hydro",
+  "funcao": "Curandeira",
+  "sets": [
+   "Ocean-Hued Clam",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_",
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "heal_",
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.75,
+   "hp": 0.35,
+   "eleMas": 0.3
+  }
+ },
+ {
+  "id": "nilou",
+  "nome": "Nilou",
+  "elemento": "Hydro",
+  "funcao": "Suporte de Bloom",
+  "sets": [
+   "Tenacity of the Millelith",
+   "Flower of Paradise Lost"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "eleMas": 0.5,
+   "enerRech_": 0.4,
+   "hp": 0.35
+  }
+ },
+ {
+  "id": "raiden-shogun",
+  "nome": "Raiden Shogun",
+  "elemento": "Electro",
+  "funcao": "DPS / Bateria",
+  "sets": [
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_"
+   ],
+   "goblet": [
+    "electro_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.75,
+   "atk_": 0.75,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "clorinde",
+  "nome": "Clorinde",
+  "elemento": "Electro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Fragment of Harmonic Whimsy",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "ayaka",
+  "nome": "Kamisato Ayaka",
+  "elemento": "Cryo",
+  "funcao": "DPS principal (Freeze)",
+  "sets": [
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critDMG_": 1,
+   "critRate_": 0.6,
+   "atk_": 0.75,
+   "enerRech_": 0.55,
+   "atk": 0.3
+  },
+  "notas": "Em Freeze o Blizzard Strayer dá Taxa Crít.; Dano Crít. vale mais."
+ },
+ {
+  "id": "ganyu",
+  "nome": "Ganyu",
+  "elemento": "Cryo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Wanderer's Troupe",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.5,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "shenhe",
+  "nome": "Shenhe",
+  "elemento": "Cryo",
+  "funcao": "Suporte de buff",
+  "sets": [
+   "Noblesse Oblige",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "atk_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.9,
+   "atk": 0.4
+  }
+ },
+ {
+  "id": "eula",
+  "nome": "Eula",
+  "elemento": "Cryo",
+  "funcao": "DPS principal (Físico)",
+  "sets": [
+   "Pale Flame"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "physical_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.5,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "xiao",
+  "nome": "Xiao",
+  "elemento": "Anemo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Vermillion Hereafter",
+   "Desert Pavilion Chronicle"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "anemo_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.6,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "wanderer",
+  "nome": "Andarilho",
+  "elemento": "Anemo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Desert Pavilion Chronicle",
+   "Shimenawa's Reminiscence"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "kazuha",
+  "nome": "Kaedehara Kazuha",
+  "elemento": "Anemo",
+  "funcao": "Suporte",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.8,
+   "critRate_": 0.2,
+   "critDMG_": 0.2
+  }
+ },
+ {
+  "id": "venti",
+  "nome": "Venti",
+  "elemento": "Anemo",
+  "funcao": "Suporte",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "enerRech_"
+   ],
+   "goblet": [
+    "eleMas",
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "eleMas",
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.8,
+   "critRate_": 0.5,
+   "critDMG_": 0.5
+  }
+ },
+ {
+  "id": "zhongli",
+  "nome": "Zhongli",
+  "elemento": "Geo",
+  "funcao": "Escudo",
+  "sets": [
+   "Tenacity of the Millelith",
+   "Archaic Petra"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hp_",
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "hp_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.6,
+   "critRate_": 0.5,
+   "critDMG_": 0.5,
+   "hp": 0.35
+  }
+ },
+ {
+  "id": "navia",
+  "nome": "Navia",
+  "elemento": "Geo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Nighttime Whispers in the Echoing Woods"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "xilonen",
+  "nome": "Xilonen",
+  "elemento": "Geo",
+  "funcao": "Suporte / Curandeira",
+  "sets": [
+   "Scroll of the Hero of Cinder City"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "def_"
+   ],
+   "circlet": [
+    "def_"
+   ]
+  },
+  "pesos": {
+   "def_": 1,
+   "enerRech_": 0.8,
+   "def": 0.35
+  }
+ },
+ {
+  "id": "nahida",
+  "nome": "Nahida",
+  "elemento": "Dendro",
+  "funcao": "DPS secundário",
+  "sets": [
+   "Deepwood Memories",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "dendro_dmg_",
+    "eleMas"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_",
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 1,
+   "enerRech_": 0.55,
+   "atk_": 0.5
+  }
+ },
+ {
+  "id": "alhaitham",
+  "nome": "Alhaitham",
+  "elemento": "Dendro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "atk_"
+   ],
+   "goblet": [
+    "dendro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.75,
+   "atk_": 0.5,
+   "enerRech_": 0.3
+  }
+ },
+ {
+  "id": "baizhu",
+  "nome": "Baizhu",
+  "elemento": "Dendro",
+  "funcao": "Curandeiro",
+  "sets": [
+   "Deepwood Memories",
+   "Ocean-Hued Clam"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "heal_",
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.75,
+   "hp": 0.35
+  }
+ },
+ {
+  "id": "citlali",
+  "nome": "Citlali",
+  "elemento": "Cryo",
+  "funcao": "Suporte (Derreter/Vaporizar) / Escudo",
+  "sets": [
+   "Scroll of the Hero of Cinder City",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas",
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "critRate_": 0.6,
+   "critDMG_": 0.6,
+   "eleMas": 0.6
+  },
+  "notas": "Recarga 160–230% (mais fácil com outros personagens Noturnos). Tiara de crítico rende tanto quanto Proficiência antes da C1. Se outro personagem usar o Pergaminho, vá de Millelith."
+ },
+ {
+  "id": "odette",
+  "nome": "Odette",
+  "elemento": "Cryo",
+  "funcao": "Sub-DPS / Suporte Estelar",
+  "sets": [
+   "Heart of the Furnace",
+   "Disenchantment in Deep Shadow",
+   "Scarlet Proof"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "atk_",
+    "eleMas"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critDMG_": 1,
+   "critRate_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.4,
+   "eleMas": 0.35,
+   "atk": 0.3
+  },
+  "notas": "Cálice de ATQ% em vez de Dano Cryo: o dano dela vem de reações Estelares. Tiara de Taxa Crít. equilibra o Dano Crít. da ascensão. Recarga quase não importa."
+ },
+ {
+  "id": "nicole",
+  "nome": "Nicole",
+  "elemento": "Pyro",
+  "funcao": "Suporte (escudo e buff de ATQ)",
+  "sets": [
+   "Celestial Gift",
+   "Noblesse Oblige",
+   "Gladiator's Finale",
+   "A Day Carved From Rising Winds"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "atk_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.8,
+   "atk": 0.4,
+   "critRate_": 0.3
+  },
+  "notas": "Buff de ATQ máximo com ~4.000 de ATQ. Recarga 175–200% (varia com o time). Taxa Crít. só importa com o Códice de Favonius. Gladiador/Ascensão Zéfira entram como 2+2 de ATQ% quando outro personagem usa Dádiva Celestial."
+ },
+ {
+  "id": "durin",
+  "nome": "Durin",
+  "elemento": "Pyro",
+  "funcao": "Sub-DPS fora de campo",
+  "sets": [
+   "A Day Carved From Rising Winds",
+   "Celestial Gift",
+   "Noblesse Oblige",
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "pyro_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.8,
+   "atk_": 0.75,
+   "atk": 0.3
+  },
+  "notas": "Recarga 120–180% conforme o time; depois disso, crítico. Cálice de ATQ% compete com o de Dano Pyro dependendo dos substats."
+ },
+ {
+  "id": "ineffa",
+  "nome": "Ineffa",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS (Carga Lunar) / Escudo",
+  "sets": [
+   "Aubade of Morningstar and Moon",
+   "Silken Moon's Serenade",
+   "Tenacity of the Millelith",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "atk_",
+    "eleMas"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.55,
+   "enerRech_": 0.35,
+   "atk": 0.3
+  },
+  "notas": "Recarga ~100–140%; não vale montar Recarga só para usar o Supremo toda rotação (muda a partir da C2). Proficiência como main stat fica perto de ATQ%."
+ },
+ {
+  "id": "mizuki",
+  "nome": "Yumemizuki Mizuki",
+  "elemento": "Anemo",
+  "funcao": "Driver de Redemoinho",
+  "sets": [
+   "Viridescent Venerer",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "enerRech_"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.85,
+   "atk_": 0.1
+  },
+  "notas": "Recarga ~140–160% primeiro (alguns times pedem mais), depois tudo em Proficiência. Use Sombra Verde sempre que possível."
+ },
+ {
+  "id": "albedo",
+  "nome": "Albedo",
+  "elemento": "Geo",
+  "funcao": "Sub-DPS fora de campo (DEF)",
+  "sets": [
+   "Husk of Opulent Dreams",
+   "Golden Troupe",
+   "Archaic Petra"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "def_": 0.8,
+   "def": 0.3,
+   "enerRech_": 0.3
+  },
+  "notas": "Escala em DEF. Flor de Seda (passiva) dá Proficiência ao time; Recarga quase não importa."
+ },
+ {
+  "id": "aloy",
+  "nome": "Aloy",
+  "elemento": "Cryo",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Blizzard Strayer",
+   "Noblesse Oblige",
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.5,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "itto",
+  "nome": "Arataki Itto",
+  "elemento": "Geo",
+  "funcao": "DPS principal (DEF)",
+  "sets": [
+   "Husk of Opulent Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "def_": 0.8,
+   "enerRech_": 0.45,
+   "def": 0.3
+  },
+  "notas": "Recarga ~130% com Gorou; o resto em crítico e DEF%."
+ },
+ {
+  "id": "chasca",
+  "nome": "Chasca",
+  "elemento": "Anemo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Obsidian Codex"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "anemo_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.3,
+   "atk": 0.3
+  },
+  "notas": "Boa parte do dano vira Pyro/Hydro/Electro/Cryo conforme o time: cálice de ATQ% compete com o Anemo. Pouca Recarga."
+ },
+ {
+  "id": "chiori",
+  "nome": "Chiori",
+  "elemento": "Geo",
+  "funcao": "Sub-DPS fora de campo (DEF)",
+  "sets": [
+   "Golden Troupe",
+   "Husk of Opulent Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "def_": 0.8,
+   "atk_": 0.4,
+   "def": 0.3,
+   "enerRech_": 0.3
+  },
+  "notas": "Escala em ATQ e DEF; DEF% é a ampulheta padrão."
+ },
+ {
+  "id": "cyno",
+  "nome": "Cyno",
+  "elemento": "Electro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Thundering Fury",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "atk_"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.75,
+   "atk_": 0.65,
+   "enerRech_": 0.5,
+   "atk": 0.25
+  },
+  "notas": "Recarga ~130–140% sem bateria Electro. Proficiência rende muito em times de Intensificar."
+ },
+ {
+  "id": "dehya",
+  "nome": "Dehya",
+  "elemento": "Pyro",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Emblem of Severed Fate",
+   "Vourukasha's Glow"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.6,
+   "hp_": 0.6,
+   "atk": 0.25
+  },
+  "notas": "Escala em ATQ e Vida; geralmente mais forte como sub-DPS do que como DPS."
+ },
+ {
+  "id": "diluc",
+  "nome": "Diluc",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Crimson Witch of Flames",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.3,
+   "atk": 0.3
+  },
+  "notas": "Proficiência quando houver Vaporizar/Derreter."
+ },
+ {
+  "id": "emilie",
+  "nome": "Emilie",
+  "elemento": "Dendro",
+  "funcao": "Sub-DPS fora de campo",
+  "sets": [
+   "Unfinished Reverie",
+   "Deepwood Memories"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "dendro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "atk": 0.3,
+   "enerRech_": 0.3
+  },
+  "notas": "Feita para times de Queimadura; quase não precisa de Recarga."
+ },
+ {
+  "id": "escoffier",
+  "nome": "Escoffier",
+  "elemento": "Cryo",
+  "funcao": "Sub-DPS / cura",
+  "sets": [
+   "Golden Troupe",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.7,
+   "atk": 0.3
+  },
+  "notas": "Reduz a RES a Hydro/Cryo dos inimigos; a cura vem do ATQ."
+ },
+ {
+  "id": "flins",
+  "nome": "Flins",
+  "elemento": "Electro",
+  "funcao": "DPS principal (Lunar-Carregado)",
+  "sets": [
+   "Night of the Sky's Unveiling",
+   "Silken Moon's Serenade"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "atk_",
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  },
+  "notas": "Dano de reação Lunar não usa bônus de Dano Electro: cálice de ATQ% costuma ser melhor. Confira se o dano dele é mais de habilidade ou de reação no seu time."
+ },
+ {
+  "id": "jean",
+  "nome": "Jean",
+  "elemento": "Anemo",
+  "funcao": "Suporte / cura",
+  "sets": [
+   "Viridescent Venerer",
+   "Ocean-Hued Clam"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "anemo_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 0.8,
+   "critDMG_": 0.8,
+   "enerRech_": 0.8,
+   "atk_": 0.75,
+   "atk": 0.3
+  },
+  "notas": "Recarga ~160–200% para ter o supremo sempre."
+ },
+ {
+  "id": "ayato",
+  "nome": "Kamisato Ayato",
+  "elemento": "Hydro",
+  "funcao": "DPS principal (Vida)",
+  "sets": [
+   "Echoes of an Offering",
+   "Heart of Depth",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.75,
+   "enerRech_": 0.4,
+   "hp": 0.25,
+   "atk_": 0.2
+  }
+ },
+ {
+  "id": "keqing",
+  "nome": "Keqing",
+  "elemento": "Electro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Thundering Fury",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.3,
+   "atk": 0.3
+  },
+  "notas": "Proficiência em times de Intensificar."
+ },
+ {
+  "id": "kinich",
+  "nome": "Kinich",
+  "elemento": "Dendro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Obsidian Codex"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "dendro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.3,
+   "atk": 0.3,
+   "eleMas": 0.25
+  },
+  "notas": "Usa a energia de Espírito Noturno; pouca Recarga."
+ },
+ {
+  "id": "klee",
+  "nome": "Klee",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Crimson Witch of Flames",
+   "Wanderer's Troupe"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.35,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "lauma",
+  "nome": "Lauma",
+  "elemento": "Dendro",
+  "funcao": "Suporte (Lunar-Florescer)",
+  "sets": [
+   "Silken Moon's Serenade",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.75,
+   "critRate_": 0.3,
+   "critDMG_": 0.3
+  },
+  "notas": "Escala em Proficiência; dano de reação Lunar não usa bônus de Dano Dendro."
+ },
+ {
+  "id": "lyney",
+  "nome": "Lyney",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Marechaussee Hunter"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "atk": 0.3,
+   "eleMas": 0.3
+  }
+ },
+ {
+  "id": "mona",
+  "nome": "Mona",
+  "elemento": "Hydro",
+  "funcao": "Suporte (dano do supremo)",
+  "sets": [
+   "Noblesse Oblige",
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.8,
+   "atk_": 0.6,
+   "atk": 0.25
+  },
+  "notas": "Passiva converte 20% da Recarga em Bônus de Dano Hydro."
+ },
+ {
+  "id": "mualani",
+  "nome": "Mualani",
+  "elemento": "Hydro",
+  "funcao": "DPS principal (Vida, Vaporizar)",
+  "sets": [
+   "Obsidian Codex",
+   "Marechaussee Hunter"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "eleMas"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.75,
+   "eleMas": 0.6,
+   "hp": 0.25
+  },
+  "notas": "Usa Espírito Noturno; quase não precisa de Recarga."
+ },
+ {
+  "id": "nefer",
+  "nome": "Nefer",
+  "elemento": "Dendro",
+  "funcao": "DPS principal (Lunar-Florescer)",
+  "sets": [
+   "Night of the Sky's Unveiling"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas",
+    "dendro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.9,
+   "enerRech_": 0.35,
+   "atk_": 0.2
+  },
+  "notas": "Escala em Proficiência; dano de reação Lunar não usa bônus de Dano Dendro."
+ },
+ {
+  "id": "qiqi",
+  "nome": "Qiqi",
+  "elemento": "Cryo",
+  "funcao": "Cura",
+  "sets": [
+   "Ocean-Hued Clam",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "heal_",
+    "atk_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.6,
+   "atk": 0.4,
+   "critRate_": 0.2,
+   "critDMG_": 0.2
+  }
+ },
+ {
+  "id": "sigewinne",
+  "nome": "Sigewinne",
+  "elemento": "Hydro",
+  "funcao": "Sub-DPS / cura (Vida)",
+  "sets": [
+   "Golden Troupe",
+   "Song of Days Past"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_",
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "enerRech_": 0.6,
+   "hp": 0.25
+  }
+ },
+ {
+  "id": "skirk",
+  "nome": "Skirk",
+  "elemento": "Cryo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Finale of the Deep Galleries",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "atk": 0.3
+  },
+  "notas": "Não precisa de Recarga."
+ },
+ {
+  "id": "tartaglia",
+  "nome": "Tartaglia",
+  "elemento": "Hydro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Nymph's Dream",
+   "Heart of Depth",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "tighnari",
+  "nome": "Tighnari",
+  "elemento": "Dendro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Wanderer's Troupe",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "atk_"
+   ],
+   "goblet": [
+    "dendro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.8,
+   "atk_": 0.65,
+   "enerRech_": 0.3,
+   "atk": 0.25
+  }
+ },
+ {
+  "id": "varesa",
+  "nome": "Varesa",
+  "elemento": "Electro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Obsidian Codex",
+   "Long Night's Oath"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.5,
+   "atk": 0.3,
+   "enerRech_": 0.3
+  }
+ },
+ {
+  "id": "wriothesley",
+  "nome": "Wriothesley",
+  "elemento": "Cryo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Marechaussee Hunter"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "atk": 0.3,
+   "eleMas": 0.3
+  }
+ },
+ {
+  "id": "xianyun",
+  "nome": "Xianyun",
+  "elemento": "Anemo",
+  "funcao": "Suporte (mergulho) / cura",
+  "sets": [
+   "Viridescent Venerer",
+   "Song of Days Past"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "atk_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.8,
+   "atk": 0.4,
+   "critRate_": 0.2,
+   "critDMG_": 0.2
+  },
+  "notas": "O bônus de mergulho escala com o ATQ dela."
+ },
+ {
+  "id": "yae-miko",
+  "nome": "Yae Miko",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS fora de campo",
+  "sets": [
+   "Golden Troupe",
+   "Gilded Dreams",
+   "Thundering Fury"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "yoimiya",
+  "nome": "Yoimiya",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Shimenawa's Reminiscence",
+   "Echoes of an Offering"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "columbina",
+  "nome": "Columbina",
+  "elemento": "Hydro",
+  "funcao": "Suporte / Sub-DPS (Vida, reações Lunares)",
+  "sets": [
+   "Silken Moon's Serenade",
+   "Night of the Sky's Unveiling"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hp_",
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "enerRech_": 0.5,
+   "eleMas": 0.3,
+   "hp": 0.25
+  },
+  "notas": "Rascunho pelo kit: dano em Vida Máx.; o supremo cria o Domínio Lunar (bônus de dano de reação Lunar).",
+  "rascunho": true
+ },
+ {
+  "id": "zibai",
+  "nome": "Zibai",
+  "elemento": "Geo",
+  "funcao": "DPS principal (DEF, Lunar-Cristalizar)",
+  "sets": [
+   "Night of the Sky's Unveiling",
+   "Husk of Opulent Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "def_",
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "def_": 0.8,
+   "eleMas": 0.4,
+   "def": 0.3
+  },
+  "notas": "Rascunho pelo kit: ataques escalam em DEF; parte do dano é Lunar-Cristalizar. Ganha Proficiência com aliados Hydro.",
+  "rascunho": true
+ },
+ {
+  "id": "varka",
+  "nome": "Varka",
+  "elemento": "Anemo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Gladiator's Finale",
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.35,
+   "atk": 0.3
+  },
+  "notas": "Rascunho pelo kit: escala em ATQ; com Pyro/Hydro/Electro/Cryo no time, ganha bônus de dano por cada 1.000 de ATQ.",
+  "rascunho": true
+ },
+ {
+  "id": "linnea",
+  "nome": "Linnea",
+  "elemento": "Geo",
+  "funcao": "Suporte / cura (DEF)",
+  "sets": [
+   "Silken Moon's Serenade",
+   "Archaic Petra"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "def_"
+   ],
+   "circlet": [
+    "def_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "def_": 1,
+   "enerRech_": 0.7,
+   "def": 0.35,
+   "critRate_": 0.3,
+   "critDMG_": 0.3
+  },
+  "notas": "Rascunho pelo kit: cura e dano da Lumi em DEF; dá Proficiência (5% da DEF) ao personagem Lunar ativo.",
+  "rascunho": true
+ },
+ {
+  "id": "lohen",
+  "nome": "Lohen",
+  "elemento": "Cryo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Blizzard Strayer",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.35,
+   "atk": 0.3
+  },
+  "notas": "Rascunho pelo kit: escala em ATQ.",
+  "rascunho": true
+ },
+ {
+  "id": "sandrone",
+  "nome": "Sandrone",
+  "elemento": "Cryo",
+  "funcao": "DPS (reações Estelares)",
+  "sets": [
+   "Gladiator's Finale",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "cryo_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.5,
+   "atk": 0.3
+  },
+  "notas": "Rascunho pelo kit: ganha 8 de Proficiência a cada 100 de ATQ (até 160).",
+  "rascunho": true
+ },
+ {
+  "id": "vesna",
+  "nome": "Vesna",
+  "elemento": "Anemo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Viridescent Venerer",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.3,
+   "enerRech_": 0.3,
+   "atk": 0.3
+  },
+  "notas": "Rascunho pelo kit: escala em ATQ; ganha ATQ% ou Proficiência conforme os elementos do time.",
+  "rascunho": true
+ },
+ {
+  "id": "vodyanitsa",
+  "nome": "Vodyanitsa",
+  "elemento": "Hydro",
+  "funcao": "Suporte / Sub-DPS (Vida)",
+  "sets": [
+   "Tenacity of the Millelith",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hydro_dmg_",
+    "hp_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "hp_": 0.8,
+   "enerRech_": 0.5,
+   "hp": 0.25
+  },
+  "notas": "Rascunho pelo kit: dano e cura em Vida Máx.; reduz RES a Hydro/Cryo e a Anemo.",
+  "rascunho": true
+ },
+ {
+  "id": "mitya",
+  "nome": "Mitya",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS (Proficiência)",
+  "sets": [
+   "Gilded Dreams",
+   "Thundering Fury"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "atk_"
+   ],
+   "goblet": [
+    "electro_dmg_",
+    "eleMas"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.8,
+   "atk_": 0.5,
+   "enerRech_": 0.4
+  },
+  "notas": "Rascunho pelo kit: parte do dano escala em Proficiência; dá Proficiência ao time.",
+  "rascunho": true
+ },
+ {
+  "id": "amber",
+  "nome": "Amber",
+  "elemento": "Pyro",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Crimson Witch of Flames",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.5,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "barbara",
+  "nome": "Barbara",
+  "elemento": "Hydro",
+  "funcao": "Cura",
+  "sets": [
+   "Ocean-Hued Clam",
+   "Maiden Beloved",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "heal_",
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.6,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "beidou",
+  "nome": "Beidou",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.7,
+   "atk_": 0.65,
+   "atk": 0.25
+  },
+  "notas": "Recarga ~170–200% sem bateria Electro."
+ },
+ {
+  "id": "bennett",
+  "nome": "Bennett",
+  "elemento": "Pyro",
+  "funcao": "Suporte / cura",
+  "sets": [
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "hp_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "heal_",
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "hp_": 0.7,
+   "hp": 0.35
+  },
+  "notas": "O buff vem do ATQ base (personagem + arma), não dos artefatos. Recarga ~200%."
+ },
+ {
+  "id": "candace",
+  "nome": "Candace",
+  "elemento": "Hydro",
+  "funcao": "Suporte (Vida)",
+  "sets": [
+   "Noblesse Oblige",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "hp_": 0.8,
+   "hp": 0.35,
+   "critRate_": 0.3,
+   "critDMG_": 0.3
+  }
+ },
+ {
+  "id": "charlotte",
+  "nome": "Charlotte",
+  "elemento": "Cryo",
+  "funcao": "Cura",
+  "sets": [
+   "Ocean-Hued Clam",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "heal_",
+    "atk_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.8,
+   "atk": 0.4
+  }
+ },
+ {
+  "id": "chevreuse",
+  "nome": "Chevreuse",
+  "elemento": "Pyro",
+  "funcao": "Suporte (Sobrecarga) / cura",
+  "sets": [
+   "Noblesse Oblige",
+   "Song of Days Past"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.7,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "chongyun",
+  "nome": "Chongyun",
+  "elemento": "Cryo",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Noblesse Oblige",
+   "Emblem of Severed Fate",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.7,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "collei",
+  "nome": "Collei",
+  "elemento": "Dendro",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Deepwood Memories",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "dendro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.75,
+   "atk_": 0.6,
+   "eleMas": 0.5,
+   "atk": 0.25
+  },
+  "notas": "Normalmente leva a Memórias da Floresta (redução de RES Dendro)."
+ },
+ {
+  "id": "dahlia",
+  "nome": "Dahlia",
+  "elemento": "Hydro",
+  "funcao": "Escudo / suporte (Vida)",
+  "sets": [
+   "Tenacity of the Millelith",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.8,
+   "hp": 0.4,
+   "critRate_": 0.2,
+   "critDMG_": 0.2
+  }
+ },
+ {
+  "id": "diona",
+  "nome": "Diona",
+  "elemento": "Cryo",
+  "funcao": "Escudo / cura (Vida)",
+  "sets": [
+   "Noblesse Oblige",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.8,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "dori",
+  "nome": "Dori",
+  "elemento": "Electro",
+  "funcao": "Cura / bateria (Vida)",
+  "sets": [
+   "Noblesse Oblige",
+   "Ocean-Hued Clam"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.8,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "faruzan",
+  "nome": "Faruzan",
+  "elemento": "Anemo",
+  "funcao": "Suporte (Anemo)",
+  "sets": [
+   "Noblesse Oblige",
+   "Tenacity of the Millelith",
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_",
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_",
+    "atk_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "critRate_": 0.4,
+   "critDMG_": 0.4,
+   "atk_": 0.4,
+   "atk": 0.2
+  },
+  "notas": "Recarga 250–270% é o que importa; o resto quase não muda o buff."
+ },
+ {
+  "id": "fischl",
+  "nome": "Fischl",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS fora de campo",
+  "sets": [
+   "Golden Troupe",
+   "Thundering Fury"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.5,
+   "atk": 0.3
+  },
+  "notas": "Proficiência em times de Intensificar."
+ },
+ {
+  "id": "freminet",
+  "nome": "Freminet",
+  "elemento": "Cryo",
+  "funcao": "DPS principal (físico)",
+  "sets": [
+   "Pale Flame",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "physical_dmg_",
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "atk": 0.3,
+   "enerRech_": 0.3
+  }
+ },
+ {
+  "id": "gaming",
+  "nome": "Gaming",
+  "elemento": "Pyro",
+  "funcao": "DPS principal (mergulho)",
+  "sets": [
+   "Marechaussee Hunter",
+   "Crimson Witch of Flames"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "gorou",
+  "nome": "Gorou",
+  "elemento": "Geo",
+  "funcao": "Suporte (Geo)",
+  "sets": [
+   "Noblesse Oblige",
+   "Husk of Opulent Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "def_"
+   ],
+   "goblet": [
+    "def_"
+   ],
+   "circlet": [
+    "def_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "def_": 0.6,
+   "def": 0.3,
+   "critRate_": 0.2,
+   "critDMG_": 0.2
+  }
+ },
+ {
+  "id": "iansan",
+  "nome": "Iansan",
+  "elemento": "Electro",
+  "funcao": "Suporte (ATQ)",
+  "sets": [
+   "Scroll of the Hero of Cinder City",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "atk_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.8,
+   "atk": 0.4,
+   "critRate_": 0.25,
+   "critDMG_": 0.25
+  },
+  "notas": "O buff escala com o ATQ dela."
+ },
+ {
+  "id": "ifa",
+  "nome": "Ifa",
+  "elemento": "Anemo",
+  "funcao": "Cura (Proficiência)",
+  "sets": [
+   "Viridescent Venerer",
+   "Scroll of the Hero of Cinder City"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.3
+  }
+ },
+ {
+  "id": "kachina",
+  "nome": "Kachina",
+  "elemento": "Geo",
+  "funcao": "Suporte / Sub-DPS (DEF)",
+  "sets": [
+   "Scroll of the Hero of Cinder City",
+   "Golden Troupe"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "def_": 0.8,
+   "def": 0.3,
+   "enerRech_": 0.3
+  }
+ },
+ {
+  "id": "kaeya",
+  "nome": "Kaeya",
+  "elemento": "Cryo",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Blizzard Strayer",
+   "Emblem of Severed Fate",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.55,
+   "atk_": 0.7,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "kaveh",
+  "nome": "Kaveh",
+  "elemento": "Dendro",
+  "funcao": "Florescer (Proficiência)",
+  "sets": [
+   "Flower of Paradise Lost",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.2
+  }
+ },
+ {
+  "id": "kirara",
+  "nome": "Kirara",
+  "elemento": "Dendro",
+  "funcao": "Escudo (Vida)",
+  "sets": [
+   "Deepwood Memories",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.6,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "sara",
+  "nome": "Kujou Sara",
+  "elemento": "Electro",
+  "funcao": "Suporte (ATQ)",
+  "sets": [
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_"
+   ],
+   "goblet": [
+    "atk_",
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "atk_": 0.6,
+   "critRate_": 0.5,
+   "critDMG_": 0.5,
+   "atk": 0.3
+  },
+  "notas": "O buff vem do ATQ base (personagem + arma)."
+ },
+ {
+  "id": "shinobu",
+  "nome": "Kuki Shinobu",
+  "elemento": "Electro",
+  "funcao": "Hiperflorescer / cura",
+  "sets": [
+   "Flower of Paradise Lost",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.4,
+   "hp_": 0.3
+  }
+ },
+ {
+  "id": "lan-yan",
+  "nome": "Lan Yan",
+  "elemento": "Anemo",
+  "funcao": "Escudo / suporte",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_",
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "atk_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.75,
+   "atk": 0.4,
+   "eleMas": 0.3
+  }
+ },
+ {
+  "id": "layla",
+  "nome": "Layla",
+  "elemento": "Cryo",
+  "funcao": "Escudo (Vida)",
+  "sets": [
+   "Tenacity of the Millelith",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.7,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "lisa",
+  "nome": "Lisa",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS / suporte",
+  "sets": [
+   "Noblesse Oblige",
+   "Thundering Fury"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas",
+    "enerRech_"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.6,
+   "eleMas": 0.5,
+   "atk": 0.25
+  },
+  "notas": "Supremo reduz a DEF dos inimigos (passiva)."
+ },
+ {
+  "id": "lynette",
+  "nome": "Lynette",
+  "elemento": "Anemo",
+  "funcao": "Suporte",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_"
+   ],
+   "goblet": [
+    "anemo_dmg_",
+    "atk_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "critRate_": 0.5,
+   "critDMG_": 0.5,
+   "atk_": 0.5,
+   "atk": 0.25
+  }
+ },
+ {
+  "id": "mika",
+  "nome": "Mika",
+  "elemento": "Cryo",
+  "funcao": "Cura / suporte (Vida)",
+  "sets": [
+   "Noblesse Oblige",
+   "Ocean-Hued Clam",
+   "Tenacity of the Millelith"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_",
+    "heal_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.8,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "ningguang",
+  "nome": "Ningguang",
+  "elemento": "Geo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Retracing Bolide",
+   "Archaic Petra"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "noelle",
+  "nome": "Noelle",
+  "elemento": "Geo",
+  "funcao": "DPS principal (DEF)",
+  "sets": [
+   "Husk of Opulent Dreams",
+   "Retracing Bolide"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_"
+   ],
+   "goblet": [
+    "geo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "def_": 0.8,
+   "enerRech_": 0.4,
+   "def": 0.3
+  }
+ },
+ {
+  "id": "ororon",
+  "nome": "Ororon",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS fora de campo",
+  "sets": [
+   "Scroll of the Hero of Cinder City",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_",
+    "eleMas"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.65,
+   "eleMas": 0.5,
+   "atk": 0.25
+  }
+ },
+ {
+  "id": "razor",
+  "nome": "Razor",
+  "elemento": "Electro",
+  "funcao": "DPS principal (físico)",
+  "sets": [
+   "Pale Flame",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "physical_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "rosaria",
+  "nome": "Rosaria",
+  "elemento": "Cryo",
+  "funcao": "Sub-DPS / suporte",
+  "sets": [
+   "Noblesse Oblige",
+   "Blizzard Strayer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "cryo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.7,
+   "atk": 0.3
+  },
+  "notas": "O supremo dá Taxa Crítica ao time com base na dela."
+ },
+ {
+  "id": "sayu",
+  "nome": "Sayu",
+  "elemento": "Anemo",
+  "funcao": "Cura / Redemoinho",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas",
+    "enerRech_",
+    "atk_"
+   ],
+   "goblet": [
+    "eleMas",
+    "atk_"
+   ],
+   "circlet": [
+    "heal_",
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 0.8,
+   "enerRech_": 0.8,
+   "atk_": 0.5
+  }
+ },
+ {
+  "id": "sethos",
+  "nome": "Sethos",
+  "elemento": "Electro",
+  "funcao": "DPS (ataque carregado)",
+  "sets": [
+   "Wanderer's Troupe",
+   "Gilded Dreams"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "eleMas": 0.9,
+   "enerRech_": 0.3
+  },
+  "notas": "O ataque carregado escala em ATQ e Proficiência."
+ },
+ {
+  "id": "heizou",
+  "nome": "Shikanoin Heizou",
+  "elemento": "Anemo",
+  "funcao": "DPS principal",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "enerRech_": 0.4,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "sucrose",
+  "nome": "Sucrose",
+  "elemento": "Anemo",
+  "funcao": "Suporte (Proficiência)",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.75
+  },
+  "notas": "Passivas repassam parte da Proficiência dela ao time."
+ },
+ {
+  "id": "thoma",
+  "nome": "Thoma",
+  "elemento": "Pyro",
+  "funcao": "Escudo (Vida)",
+  "sets": [
+   "Tenacity of the Millelith",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.8,
+   "hp": 0.4
+  },
+  "rotulo": "Escudo",
+  "variantes": [
+   {
+    "id": "explosao",
+    "rotulo": "Explosão (Burgeon)",
+    "funcao": "Gatilho de Explosão",
+    "sets": [
+     "Gilded Dreams",
+     "Flower of Paradise Lost"
+    ],
+    "mainStats": {
+     "sands": [
+      "eleMas"
+     ],
+     "goblet": [
+      "eleMas"
+     ],
+     "circlet": [
+      "eleMas"
+     ]
+    },
+    "pesos": {
+     "eleMas": 1,
+     "enerRech_": 0.6
+    }
+   }
+  ]
+ },
+ {
+  "id": "xiangling",
+  "nome": "Xiangling",
+  "elemento": "Pyro",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.75,
+   "eleMas": 0.6,
+   "atk_": 0.6,
+   "atk": 0.25
+  },
+  "notas": "Recarga ~180–200% sem Bennett de bateria."
+ },
+ {
+  "id": "xingqiu",
+  "nome": "Xingqiu",
+  "elemento": "Hydro",
+  "funcao": "Sub-DPS",
+  "sets": [
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.7,
+   "atk_": 0.65,
+   "atk": 0.25
+  },
+  "notas": "Recarga ~160–200% conforme o time."
+ },
+ {
+  "id": "xinyan",
+  "nome": "Xinyan",
+  "elemento": "Pyro",
+  "funcao": "Sub-DPS (físico)",
+  "sets": [
+   "Pale Flame",
+   "Gladiator's Finale"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_"
+   ],
+   "goblet": [
+    "physical_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.3,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "yanfei",
+  "nome": "Yanfei",
+  "elemento": "Pyro",
+  "funcao": "DPS principal",
+  "sets": [
+   "Wanderer's Troupe",
+   "Crimson Witch of Flames"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas"
+   ],
+   "goblet": [
+    "pyro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "eleMas": 0.6,
+   "atk": 0.3
+  }
+ },
+ {
+  "id": "yaoyao",
+  "nome": "Yaoyao",
+  "elemento": "Dendro",
+  "funcao": "Cura (Vida)",
+  "sets": [
+   "Deepwood Memories"
+  ],
+  "mainStats": {
+   "sands": [
+    "hp_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "hp_"
+   ],
+   "circlet": [
+    "heal_",
+    "hp_"
+   ]
+  },
+  "pesos": {
+   "hp_": 1,
+   "enerRech_": 0.6,
+   "hp": 0.4
+  }
+ },
+ {
+  "id": "yun-jin",
+  "nome": "Yun Jin",
+  "elemento": "Geo",
+  "funcao": "Suporte (ataque normal, DEF)",
+  "sets": [
+   "Husk of Opulent Dreams",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "def_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "def_"
+   ],
+   "circlet": [
+    "def_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "def_": 1,
+   "enerRech_": 0.8,
+   "def": 0.4
+  },
+  "notas": "O buff escala com a DEF dela."
+ },
+ {
+  "id": "aino",
+  "nome": "Aino",
+  "elemento": "Hydro",
+  "funcao": "Suporte (Lunar)",
+  "sets": [
+   "Silken Moon's Serenade",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_",
+    "atk_"
+   ],
+   "goblet": [
+    "hydro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "critRate_": 0.5,
+   "critDMG_": 0.5,
+   "atk_": 0.5,
+   "eleMas": 0.4
+  },
+  "notas": "Rascunho pelo kit.",
+  "rascunho": true
+ },
+ {
+  "id": "jahoda",
+  "nome": "Jahoda",
+  "elemento": "Anemo",
+  "funcao": "Cura (ATQ)",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "heal_",
+    "atk_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.7,
+   "atk": 0.4
+  },
+  "notas": "Rascunho pelo kit: cura dos robôs escala em ATQ.",
+  "rascunho": true
+ },
+ {
+  "id": "illuga",
+  "nome": "Illuga",
+  "elemento": "Geo",
+  "funcao": "Suporte (Proficiência, Lunar-Cristalizar)",
+  "sets": [
+   "Silken Moon's Serenade",
+   "Night of the Sky's Unveiling"
+  ],
+  "mainStats": {
+   "sands": [
+    "eleMas"
+   ],
+   "goblet": [
+    "eleMas"
+   ],
+   "circlet": [
+    "eleMas"
+   ]
+  },
+  "pesos": {
+   "eleMas": 1,
+   "enerRech_": 0.6,
+   "def_": 0.3
+  },
+  "notas": "Rascunho pelo kit: o bônus de dano Geo do supremo escala com a Proficiência dele.",
+  "rascunho": true
+ },
+ {
+  "id": "prune",
+  "nome": "Prune",
+  "elemento": "Anemo",
+  "funcao": "Suporte (ATQ)",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "atk_"
+   ],
+   "circlet": [
+    "atk_",
+    "critRate_"
+   ]
+  },
+  "pesos": {
+   "atk_": 1,
+   "enerRech_": 0.7,
+   "atk": 0.4,
+   "critRate_": 0.3,
+   "critDMG_": 0.3
+  },
+  "notas": "Rascunho pelo kit: o buff do time usa o ATQ dela acima de 2.000.",
+  "rascunho": true
+ },
+ {
+  "id": "alyosha",
+  "nome": "Alyosha",
+  "elemento": "Electro",
+  "funcao": "Sub-DPS / cura (Recarga)",
+  "sets": [
+   "Emblem of Severed Fate",
+   "Noblesse Oblige"
+  ],
+  "mainStats": {
+   "sands": [
+    "enerRech_"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "enerRech_": 1,
+   "critRate_": 0.6,
+   "critDMG_": 0.6,
+   "atk_": 0.5,
+   "atk": 0.2
+  },
+  "notas": "Rascunho pelo kit: ganha 0,35% de dano de habilidade/supremo por 1% de Recarga (até 70%).",
+  "rascunho": true
+ },
+ {
+  "id": "valeriy",
+  "nome": "Valeriy",
+  "elemento": "Electro",
+  "funcao": "Escudo / Sub-DPS (ATQ)",
+  "sets": [
+   "Noblesse Oblige",
+   "Emblem of Severed Fate"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "enerRech_"
+   ],
+   "goblet": [
+    "electro_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "atk_": 0.75,
+   "enerRech_": 0.5,
+   "atk": 0.3
+  },
+  "notas": "Rascunho pelo kit: escudo e dano escalam em ATQ.",
+  "rascunho": true
+ },
+ {
+  "id": "viajante",
+  "nome": "Viajante",
+  "elemento": "Anemo",
+  "funcao": "Suporte / Sub-DPS",
+  "sets": [
+   "Viridescent Venerer"
+  ],
+  "mainStats": {
+   "sands": [
+    "atk_",
+    "eleMas",
+    "enerRech_"
+   ],
+   "goblet": [
+    "anemo_dmg_"
+   ],
+   "circlet": [
+    "critRate_",
+    "critDMG_"
+   ]
+  },
+  "pesos": {
+   "critRate_": 1,
+   "critDMG_": 1,
+   "enerRech_": 0.6,
+   "atk_": 0.6,
+   "eleMas": 0.5,
+   "atk": 0.25
+  },
+  "notas": "Viajante Anemo: Redemoinho e agrupar inimigos.",
+  "rotulo": "Anemo",
+  "variantes": [
+   {
+    "id": "geo",
+    "rotulo": "Geo",
+    "elemento": "Geo",
+    "funcao": "Sub-DPS",
+    "sets": [
+     "Noblesse Oblige",
+     "Emblem of Severed Fate"
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "geo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 0.6,
+     "atk_": 0.7,
+     "atk": 0.3
+    }
+   },
+   {
+    "id": "electro",
+    "rotulo": "Electro",
+    "elemento": "Electro",
+    "funcao": "Bateria",
+    "sets": [
+     "Noblesse Oblige",
+     "Emblem of Severed Fate"
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_"
+     ],
+     "goblet": [
+      "electro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "enerRech_": 1,
+     "critRate_": 0.6,
+     "critDMG_": 0.6,
+     "atk_": 0.5,
+     "atk": 0.2
+    },
+    "notas": "Dá energia ao time; Recarga em primeiro lugar."
+   },
+   {
+    "id": "dendro",
+    "rotulo": "Dendro",
+    "elemento": "Dendro",
+    "funcao": "Sub-DPS / suporte",
+    "sets": [
+     "Deepwood Memories",
+     "Noblesse Oblige"
+    ],
+    "mainStats": {
+     "sands": [
+      "enerRech_",
+      "atk_",
+      "eleMas"
+     ],
+     "goblet": [
+      "dendro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 0.6,
+     "atk_": 0.6,
+     "eleMas": 0.5,
+     "atk": 0.25
+    },
+    "notas": "Memórias da Floresta é o motivo principal de usar."
+   },
+   {
+    "id": "hydro",
+    "rotulo": "Hydro",
+    "elemento": "Hydro",
+    "funcao": "Sub-DPS",
+    "sets": [
+     "Noblesse Oblige",
+     "Heart of Depth"
+    ],
+    "mainStats": {
+     "sands": [
+      "hp_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "hydro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "hp_": 0.6,
+     "enerRech_": 0.6,
+     "hp": 0.25
+    }
+   },
+   {
+    "id": "pyro",
+    "rotulo": "Pyro",
+    "elemento": "Pyro",
+    "funcao": "Suporte / Sub-DPS",
+    "sets": [
+     "Scroll of the Hero of Cinder City",
+     "Obsidian Codex"
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_"
+     ],
+     "goblet": [
+      "pyro_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "atk_": 0.7,
+     "enerRech_": 0.4,
+     "atk": 0.3
+    }
+   },
+   {
+    "id": "cryo",
+    "rotulo": "Cryo",
+    "elemento": "Cryo",
+    "funcao": "Sub-DPS",
+    "sets": [
+     "Blizzard Strayer",
+     "Noblesse Oblige"
+    ],
+    "mainStats": {
+     "sands": [
+      "atk_",
+      "enerRech_"
+     ],
+     "goblet": [
+      "cryo_dmg_"
+     ],
+     "circlet": [
+      "critRate_",
+      "critDMG_"
+     ]
+    },
+    "pesos": {
+     "critRate_": 1,
+     "critDMG_": 1,
+     "enerRech_": 0.5,
+     "atk_": 0.7,
+     "atk": 0.3
+    },
+    "notas": "Rascunho: não conheço bem este elemento."
+   }
+  ]
+ }
+]

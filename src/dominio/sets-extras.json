@@ -1,0 +1,126 @@
+[
+ {
+  "en": "Celestial Gift",
+  "pt": "Dádiva Celestial",
+  "pecas": {
+   "flower": {
+    "en": "Heavensent Fragrance",
+    "pt": "Fragrância Celestial",
+    "icone": "UI_RelicIcon_15045_4"
+   },
+   "plume": {
+    "en": "Heavensent Demise",
+    "pt": "Perdição Celestial",
+    "icone": "UI_RelicIcon_15045_2"
+   },
+   "sands": {
+    "en": "Heavensent Decree",
+    "pt": "Decreto Celestial",
+    "icone": "UI_RelicIcon_15045_5"
+   },
+   "goblet": {
+    "en": "Heavensent Reward",
+    "pt": "Recompensa Celestial",
+    "icone": "UI_RelicIcon_15045_1"
+   },
+   "circlet": {
+    "en": "Heavensent Crown",
+    "pt": "Coroa Celestial",
+    "icone": "UI_RelicIcon_15045_3"
+   }
+  }
+ },
+ {
+  "en": "Disenchantment in Deep Shadow",
+  "pt": "Desencantamento na Sombra Profunda",
+  "pecas": {
+   "flower": {
+    "en": "Iridescence That Ceased Amidst Glory",
+    "pt": "Iridescência que Cessou Entre a Glória",
+    "icone": "UI_RelicIcon_15046_4"
+   },
+   "plume": {
+    "en": "Sharpness That Ceased Upon Wondrous Creation",
+    "pt": "Afiação que Cessou na Criação Maravilhosa",
+    "icone": "UI_RelicIcon_15046_2"
+   },
+   "sands": {
+    "en": "Moment That Ceased Upon Waking From Grand Dreams",
+    "pt": "Momento que Cessou ao Despertar dos Grandes Sonhos",
+    "icone": "UI_RelicIcon_15046_5"
+   },
+   "goblet": {
+    "en": "Ovations That Ceased Upon Festivity",
+    "pt": "Ovações que Cessaram na Festividade",
+    "icone": "UI_RelicIcon_15046_1"
+   },
+   "circlet": {
+    "en": "Pendulum That Ceased Amidst a Great Fall",
+    "pt": "Pêndulo que Cessou na Grande Queda",
+    "icone": "UI_RelicIcon_15046_3"
+   }
+  }
+ },
+ {
+  "en": "Scarlet Proof",
+  "pt": "Prova Escarlate",
+  "pecas": {
+   "flower": {
+    "en": "Honor to Your Devotion",
+    "pt": "Devoção Honrada",
+    "icone": "UI_RelicIcon_15047_4"
+   },
+   "plume": {
+    "en": "Glory to Your Legacy",
+    "pt": "Glória ao Seu Legado",
+    "icone": "UI_RelicIcon_15047_2"
+   },
+   "sands": {
+    "en": "Time Gifted Unto You",
+    "pt": "Presente do Tempo",
+    "icone": "UI_RelicIcon_15047_5"
+   },
+   "goblet": {
+    "en": "Chalice of Your Blood and Sorrow",
+    "pt": "Cálice do Sangue e Sofrimento",
+    "icone": "UI_RelicIcon_15047_1"
+   },
+   "circlet": {
+    "en": "Testament to Your Faith",
+    "pt": "Prova de Fé",
+    "icone": "UI_RelicIcon_15047_3"
+   }
+  }
+ },
+ {
+  "en": "Heart of the Furnace",
+  "pt": "Coração Forjado",
+  "pecas": {
+   "flower": {
+    "en": "Foundryman's Conjecture",
+    "pt": "Suposição do Forjador",
+    "icone": "UI_RelicIcon_15048_4"
+   },
+   "plume": {
+    "en": "Foundryman's Observation",
+    "pt": "Observação do Forjador",
+    "icone": "UI_RelicIcon_15048_2"
+   },
+   "sands": {
+    "en": "Foundryman's Calculus",
+    "pt": "Contagem do Forjador",
+    "icone": "UI_RelicIcon_15048_5"
+   },
+   "goblet": {
+    "en": "Foundryman's Magnanimity",
+    "pt": "Magnanimidade do Forjador",
+    "icone": "UI_RelicIcon_15048_1"
+   },
+   "circlet": {
+    "en": "Foundryman's Legacy",
+    "pt": "Ambição do Forjador",
+    "icone": "UI_RelicIcon_15048_3"
+   }
+  }
+ }
+]

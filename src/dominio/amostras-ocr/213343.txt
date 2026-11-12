@@ -1,0 +1,32 @@
+Julgamento Primordial
+Flor da Vida (a) (|
+Vida m7
+
++0
+
+* Taxa Critica+2,7% .
+
+- ATQ+16
+
+* DEF+6,6%
+
+* Damo-Critico+7,0% (A ser
+
+ativado)
+
+Codice de Obsidiana: (0) |
+Conjunto de 2 peças: Enquanto
+o personagem que esta com ~
+esse conjunto.equipado estiver
+sob a Bênção do Espírito da
+Noite e estiver ativo, o Dano
+causado pqr ele é aumentado
+em 15%. . .
+
+@ Conjunto de 4 peças: Enquanto
+estiver ativo, após o .
+personagem que esta gm esse
+conjufito equipado consumir 1
+ponto de Espirito da Noité, a
+Taxa CRIT aumenta em 40% -
+por 6s. Este efeito pode ser =

@@ -1,0 +1,33 @@
+Fragrância Celestial *
+Flor da Vida (a) 0
+Vida 7
+
++0 :
+
+* Dano Critico+7,8%
+
+* Recarga de Energia+6,5%
+
+* DEF+7,3%
+
+- ATQ+4,7% (A ser ativado)
+
+Dadiva Celestial: (1)
+
+@®Conjunto de 2 peças: Recarga
+de Energia +20%
+Conjunto de 4 pecas: Se o
+portador ja completou a Tarefa
+da Bruxa, após usar uma
+Habilidade Elemental, obtém
+"Orientacao da Luz Celestial”
+
+. por 20s: todos os personagens
+próximos da equipe obtêm
+20% de Bônus de Dano
+Elemental correspondente ao
+Tipo Elemental do portador.
+Esse efeito pode ser
+
+~ dasencadeado mesmo se 0
+§ » Equipado por Mona

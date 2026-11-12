@@ -1,0 +1,151 @@
+{
+  "_sobre": "Melhores armas por build (chave da build: id do personagem ou id:variante), em ordem. 'pesquisa' = fonte consultada em 11/2026; 'rascunho' = lista inicial sem pesquisa recente, para revisar.",
+  "mavuika": { "fonte": "Icy Veins (atualizado em 17/02/2026, versão 6.3)", "tipo": "pesquisa", "armas": [
+    { "en": "A Thousand Blazing Suns", "nota": "Exclusiva, melhor para DPS" },
+    { "en": "Serpent Spine", "nota": "Melhor 4★ (R5)" },
+    { "en": "Verdict" },
+    { "en": "Beacon of the Reed Sea", "nota": "Foco em crítico" },
+    { "en": "Wolf's Gravestone" },
+    { "en": "The Unforged", "nota": "Times com escudo" },
+    { "en": "Redhorn Stonethresher" },
+    { "en": "Talking Stick", "nota": "Passe de batalha" }
+  ]},
+  "mavuika:subdps": { "fonte": "Icy Veins (lista única do personagem; ordem adaptada para Sub-DPS)", "tipo": "pesquisa", "armas": [
+    { "en": "A Thousand Blazing Suns", "nota": "Exclusiva" },
+    { "en": "Verdict" },
+    { "en": "Wolf's Gravestone", "nota": "Também dá ATQ ao time" },
+    { "en": "Serpent Spine", "nota": "Melhor 4★ (R5)" },
+    { "en": "Talking Stick", "nota": "Passe de batalha" },
+    { "en": "Akuoumaru", "nota": "Escala com o Supremo" }
+  ]},
+  "mavuika:suporte": { "fonte": "Icy Veins (lista única do personagem; ordem adaptada para Suporte de Supremo)", "tipo": "pesquisa", "armas": [
+    { "en": "Wolf's Gravestone", "nota": "ATQ para todo o time" },
+    { "en": "A Thousand Blazing Suns", "nota": "Exclusiva" },
+    { "en": "Skyward Pride", "nota": "Recarga" },
+    { "en": "Akuoumaru" },
+    { "en": "Talking Stick", "nota": "Passe de batalha" },
+    { "en": "Tidal Shadow", "nota": "Forjável" }
+  ]},
+  "citlali": { "fonte": "Icy Veins (atualizado para 6.4, 14/03/2026)", "tipo": "pesquisa", "armas": [
+    { "en": "Starcaller's Watch", "nota": "Exclusiva" },
+    { "en": "Thrilling Tales of Dragon Slayers", "nota": "Melhor gratuita; troque direto para o DPS" },
+    { "en": "Etherlight Spindlelute", "nota": "Recarga e Proficiência" },
+    { "en": "Wandering Evenstar" },
+    { "en": "A Thousand Floating Dreams" },
+    { "en": "Sacrificial Fragments" },
+    { "en": "Favonius Codex", "nota": "Se faltar Recarga; use tiara de Taxa Crítica" }
+  ]},
+  "durin": { "fonte": "Icy Veins (guia de 24/10/2025)", "tipo": "pesquisa", "armas": [
+    { "en": "Athame Artis", "nota": "Exclusiva (o guia não cita o nome; identificada pela passiva)" },
+    { "en": "Mistsplitter Reforged" },
+    { "en": "The Black Sword" },
+    { "en": "Moonweaver's Dawn", "nota": "4★; só R1 é gratuita (missão)" },
+    { "en": "Wolf-Fang" }
+  ]},
+  "nicole": { "fonte": "Icy Veins (guia de 09/04/2026)", "tipo": "pesquisa", "armas": [
+    { "en": "Angelos' Heptades", "nota": "Exclusiva (no guia aparece como \"Seven Edicts of Dust and Light\")" },
+    { "en": "Starcaller's Watch" },
+    { "en": "Thrilling Tales of Dragon Slayers", "nota": "Melhor gratuita" },
+    { "en": "Skyward Atlas" },
+    { "en": "Oathsworn Eye", "nota": "Não dá mais para obter" },
+    { "en": "Favonius Codex", "nota": "Se o time precisar de energia" }
+  ]},
+  "odette": { "fonte": "Icy Veins (atualizado para 7.0, 06/07/2026)", "tipo": "pesquisa", "armas": [
+    { "en": "Whitelake Frostfeather", "nota": "Exclusiva; ganho pequeno no time" },
+    { "en": "Freedom-Sworn" },
+    { "en": "Primordial Jade Cutter" },
+    { "en": "Azurelight" },
+    { "en": "Absolution" },
+    { "en": "Exaiphanes Blade", "nota": "Melhor gratuita (Snezhnaya)" },
+    { "en": "Emberwell", "nota": "Melhor 4★ (forjável, R5)" },
+    { "en": "Xiphos' Moonlight", "nota": "Mais suporte: Recarga para o time" }
+  ]},
+  "ineffa": { "fonte": "Icy Veins (27/07/2025)", "tipo": "pesquisa", "armas": [
+    { "en": "Fractured Halo", "nota": "Exclusiva" },
+    { "en": "Staff of the Scarlet Sands" },
+    { "en": "Symphonist of Scents" },
+    { "en": "Ballad of the Fjords" },
+    { "en": "Calamity Queller" },
+    { "en": "Staff of Homa" },
+    { "en": "Deathmatch" },
+    { "en": "Favonius Lance", "nota": "Suporte: Recarga do time" }
+  ]},
+  "mizuki": { "fonte": "Icy Veins (atualizado para 6.0, 27/09/2025)", "tipo": "pesquisa", "armas": [
+    { "en": "Sunny Morning Sleep-In", "nota": "Exclusiva" },
+    { "en": "A Thousand Floating Dreams" },
+    { "en": "Starcaller's Watch", "nota": "Não ativa todo o efeito" },
+    { "en": "Wandering Evenstar" },
+    { "en": "Sacrificial Fragments", "nota": "Melhor opção acessível" },
+    { "en": "Magic Guide", "nota": "3★" },
+    { "en": "Favonius Codex" }
+  ]},
+  "hu-tao": { "tipo": "rascunho", "armas": [
+    { "en": "Staff of Homa", "nota": "Exclusiva" }, { "en": "Staff of the Scarlet Sands" }, { "en": "Dragon's Bane", "nota": "4★ de Proficiência" }, { "en": "Deathmatch" }, { "en": "White Tassel", "nota": "3★" }
+  ]},
+  "arlecchino": { "tipo": "rascunho", "armas": [
+    { "en": "Crimson Moon's Semblance", "nota": "Exclusiva" }, { "en": "Staff of Homa" }, { "en": "Primordial Jade Winged-Spear" }, { "en": "Staff of the Scarlet Sands" }, { "en": "Deathmatch" }, { "en": "White Tassel", "nota": "3★" }
+  ]},
+  "neuvillette": { "tipo": "rascunho", "armas": [
+    { "en": "Tome of the Eternal Flow", "nota": "Exclusiva" }, { "en": "Cashflow Supervision" }, { "en": "Lost Prayer to the Sacred Winds" }, { "en": "Sacrificial Jade", "nota": "4★" }, { "en": "Prototype Amber", "nota": "Forjável" }
+  ]},
+  "furina": { "tipo": "rascunho", "armas": [
+    { "en": "Splendor of Tranquil Waters", "nota": "Exclusiva" }, { "en": "Key of Khaj-Nisut" }, { "en": "Primordial Jade Cutter" }, { "en": "Fleuve Cendre Ferryman", "nota": "4★ (evento)" }, { "en": "Festering Desire", "nota": "4★" }, { "en": "Favonius Sword" }
+  ]},
+  "yelan": { "tipo": "rascunho", "armas": [
+    { "en": "Aqua Simulacra", "nota": "Exclusiva" }, { "en": "Elegy for the End" }, { "en": "Skyward Harp" }, { "en": "Favonius Warbow" }, { "en": "Recurve Bow", "nota": "3★" }
+  ]},
+  "kokomi": { "tipo": "rascunho", "armas": [
+    { "en": "Everlasting Moonglow", "nota": "Exclusiva" }, { "en": "Thrilling Tales of Dragon Slayers" }, { "en": "Prototype Amber", "nota": "Forjável" }, { "en": "Hakushin Ring" }
+  ]},
+  "nilou": { "tipo": "rascunho", "armas": [
+    { "en": "Key of Khaj-Nisut", "nota": "Exclusiva" }, { "en": "Xiphos' Moonlight" }, { "en": "Iron Sting" }, { "en": "Sapwood Blade", "nota": "Forjável" }, { "en": "Favonius Sword" }
+  ]},
+  "raiden-shogun": { "tipo": "rascunho", "armas": [
+    { "en": "Engulfing Lightning", "nota": "Exclusiva" }, { "en": "\"The Catch\"", "nota": "Gratuita (pesca)" }, { "en": "Staff of Homa" }, { "en": "Primordial Jade Winged-Spear" }, { "en": "Wavebreaker's Fin" }
+  ]},
+  "clorinde": { "tipo": "rascunho", "armas": [
+    { "en": "Absolution", "nota": "Exclusiva" }, { "en": "Mistsplitter Reforged" }, { "en": "Haran Geppaku Futsu" }, { "en": "Finale of the Deep", "nota": "Forjável" }, { "en": "The Black Sword" }
+  ]},
+  "ayaka": { "tipo": "rascunho", "armas": [
+    { "en": "Mistsplitter Reforged", "nota": "Exclusiva" }, { "en": "Haran Geppaku Futsu" }, { "en": "Primordial Jade Cutter" }, { "en": "Amenoma Kageuchi", "nota": "Forjável" }, { "en": "Finale of the Deep", "nota": "Forjável" }
+  ]},
+  "ganyu": { "tipo": "rascunho", "armas": [
+    { "en": "Amos' Bow", "nota": "Exclusiva" }, { "en": "Aqua Simulacra" }, { "en": "Hunter's Path", "nota": "Times de Derreter" }, { "en": "Prototype Crescent", "nota": "Forjável" }, { "en": "Hamayumi", "nota": "Forjável" }
+  ]},
+  "shenhe": { "tipo": "rascunho", "armas": [
+    { "en": "Calamity Queller", "nota": "Exclusiva" }, { "en": "Favonius Lance" }, { "en": "Skyward Spine" }, { "en": "Wavebreaker's Fin" }
+  ]},
+  "eula": { "tipo": "rascunho", "armas": [
+    { "en": "Song of Broken Pines", "nota": "Exclusiva" }, { "en": "Wolf's Gravestone" }, { "en": "Skyward Pride" }, { "en": "Snow-Tombed Starsilver", "nota": "Forjável" }, { "en": "Serpent Spine" }
+  ]},
+  "xiao": { "tipo": "rascunho", "armas": [
+    { "en": "Primordial Jade Winged-Spear", "nota": "Exclusiva" }, { "en": "Staff of Homa" }, { "en": "Calamity Queller" }, { "en": "Blackcliff Pole" }, { "en": "Deathmatch" }, { "en": "Kitain Cross Spear", "nota": "Forjável" }
+  ]},
+  "wanderer": { "tipo": "rascunho", "armas": [
+    { "en": "Tulaytullah's Remembrance", "nota": "Exclusiva" }, { "en": "Lost Prayer to the Sacred Winds" }, { "en": "Kagura's Verity" }, { "en": "The Widsith" }, { "en": "Flowing Purity", "nota": "Forjável" }
+  ]},
+  "kazuha": { "tipo": "rascunho", "armas": [
+    { "en": "Freedom-Sworn", "nota": "Exclusiva" }, { "en": "Xiphos' Moonlight" }, { "en": "Iron Sting" }, { "en": "Favonius Sword" }, { "en": "Toukabou Shigure" }
+  ]},
+  "venti": { "tipo": "rascunho", "armas": [
+    { "en": "Elegy for the End", "nota": "Exclusiva" }, { "en": "The Stringless" }, { "en": "Favonius Warbow" }, { "en": "Windblume Ode" }
+  ]},
+  "zhongli": { "tipo": "rascunho", "armas": [
+    { "en": "Staff of Homa" }, { "en": "Black Tassel", "nota": "3★, escudo com Vida" }, { "en": "Favonius Lance" }, { "en": "Vortex Vanquisher", "nota": "Exclusiva" }
+  ]},
+  "navia": { "tipo": "rascunho", "armas": [
+    { "en": "Verdict", "nota": "Exclusiva" }, { "en": "Serpent Spine" }, { "en": "Redhorn Stonethresher" }, { "en": "Beacon of the Reed Sea" }, { "en": "Tidal Shadow", "nota": "Forjável" }
+  ]},
+  "xilonen": { "tipo": "rascunho", "armas": [
+    { "en": "Peak Patrol Song", "nota": "Exclusiva" }, { "en": "Favonius Sword" }, { "en": "Freedom-Sworn" }, { "en": "Sacrificial Sword" }
+  ]},
+  "nahida": { "tipo": "rascunho", "armas": [
+    { "en": "A Thousand Floating Dreams", "nota": "Exclusiva" }, { "en": "Kagura's Verity" }, { "en": "Wandering Evenstar" }, { "en": "Sacrificial Fragments" }, { "en": "Magic Guide", "nota": "3★" }
+  ]},
+  "alhaitham": { "tipo": "rascunho", "armas": [
+    { "en": "Light of Foliar Incision", "nota": "Exclusiva" }, { "en": "Primordial Jade Cutter" }, { "en": "Mistsplitter Reforged" }, { "en": "Iron Sting" }, { "en": "Harbinger of Dawn", "nota": "3★" }
+  ]},
+  "baizhu": { "tipo": "rascunho", "armas": [
+    { "en": "Jadefall's Splendor", "nota": "Exclusiva" }, { "en": "Prototype Amber", "nota": "Forjável" }, { "en": "Thrilling Tales of Dragon Slayers" }, { "en": "Everlasting Moonglow" }
+  ]}
+}

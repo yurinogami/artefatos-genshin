@@ -1,0 +1,613 @@
+{
+ "hu-tao": {
+  "icone": "UI_AvatarIcon_Hutao",
+  "lateral": "UI_AvatarIcon_Side_Hutao",
+  "raridade": 5
+ },
+ "arlecchino": {
+  "icone": "UI_AvatarIcon_Arlecchino",
+  "lateral": "UI_AvatarIcon_Side_Arlecchino",
+  "raridade": 5
+ },
+ "mavuika": {
+  "icone": "UI_AvatarIcon_Mavuika",
+  "lateral": "UI_AvatarIcon_Side_Mavuika",
+  "raridade": 5
+ },
+ "neuvillette": {
+  "icone": "UI_AvatarIcon_Neuvillette",
+  "lateral": "UI_AvatarIcon_Side_Neuvillette",
+  "raridade": 5
+ },
+ "furina": {
+  "icone": "UI_AvatarIcon_Furina",
+  "lateral": "UI_AvatarIcon_Side_Furina",
+  "raridade": 5
+ },
+ "yelan": {
+  "icone": "UI_AvatarIcon_Yelan",
+  "lateral": "UI_AvatarIcon_Side_Yelan",
+  "raridade": 5
+ },
+ "kokomi": {
+  "icone": "UI_AvatarIcon_Kokomi",
+  "lateral": "UI_AvatarIcon_Side_Kokomi",
+  "raridade": 5
+ },
+ "nilou": {
+  "icone": "UI_AvatarIcon_Nilou",
+  "lateral": "UI_AvatarIcon_Side_Nilou",
+  "raridade": 5
+ },
+ "raiden-shogun": {
+  "icone": "UI_AvatarIcon_Shougun",
+  "lateral": "UI_AvatarIcon_Side_Shougun",
+  "raridade": 5
+ },
+ "clorinde": {
+  "icone": "UI_AvatarIcon_Clorinde",
+  "lateral": "UI_AvatarIcon_Side_Clorinde",
+  "raridade": 5
+ },
+ "ayaka": {
+  "icone": "UI_AvatarIcon_Ayaka",
+  "lateral": "UI_AvatarIcon_Side_Ayaka",
+  "raridade": 5
+ },
+ "ganyu": {
+  "icone": "UI_AvatarIcon_Ganyu",
+  "lateral": "UI_AvatarIcon_Side_Ganyu",
+  "raridade": 5
+ },
+ "shenhe": {
+  "icone": "UI_AvatarIcon_Shenhe",
+  "lateral": "UI_AvatarIcon_Side_Shenhe",
+  "raridade": 5
+ },
+ "eula": {
+  "icone": "UI_AvatarIcon_Eula",
+  "lateral": "UI_AvatarIcon_Side_Eula",
+  "raridade": 5
+ },
+ "xiao": {
+  "icone": "UI_AvatarIcon_Xiao",
+  "lateral": "UI_AvatarIcon_Side_Xiao",
+  "raridade": 5
+ },
+ "wanderer": {
+  "icone": "UI_AvatarIcon_Wanderer",
+  "lateral": "UI_AvatarIcon_Side_Wanderer",
+  "raridade": 5
+ },
+ "kazuha": {
+  "icone": "UI_AvatarIcon_Kazuha",
+  "lateral": "UI_AvatarIcon_Side_Kazuha",
+  "raridade": 5
+ },
+ "venti": {
+  "icone": "UI_AvatarIcon_Venti",
+  "lateral": "UI_AvatarIcon_Side_Venti",
+  "raridade": 5
+ },
+ "zhongli": {
+  "icone": "UI_AvatarIcon_Zhongli",
+  "lateral": "UI_AvatarIcon_Side_Zhongli",
+  "raridade": 5
+ },
+ "navia": {
+  "icone": "UI_AvatarIcon_Navia",
+  "lateral": "UI_AvatarIcon_Side_Navia",
+  "raridade": 5
+ },
+ "xilonen": {
+  "icone": "UI_AvatarIcon_Xilonen",
+  "lateral": "UI_AvatarIcon_Side_Xilonen",
+  "raridade": 5
+ },
+ "nahida": {
+  "icone": "UI_AvatarIcon_Nahida",
+  "lateral": "UI_AvatarIcon_Side_Nahida",
+  "raridade": 5
+ },
+ "alhaitham": {
+  "icone": "UI_AvatarIcon_Alhatham",
+  "lateral": "UI_AvatarIcon_Side_Alhatham",
+  "raridade": 5
+ },
+ "baizhu": {
+  "icone": "UI_AvatarIcon_Baizhuer",
+  "lateral": "UI_AvatarIcon_Side_Baizhuer",
+  "raridade": 5
+ },
+ "citlali": {
+  "icone": "UI_AvatarIcon_Citlali",
+  "lateral": "UI_AvatarIcon_Side_Citlali",
+  "raridade": 5
+ },
+ "odette": {
+  "icone": "UI_AvatarIcon_Odette",
+  "lateral": "UI_AvatarIcon_Side_Odette",
+  "raridade": 5
+ },
+ "nicole": {
+  "icone": "UI_AvatarIcon_Nicole",
+  "lateral": "UI_AvatarIcon_Side_Nicole",
+  "raridade": 5
+ },
+ "durin": {
+  "icone": "UI_AvatarIcon_Durin",
+  "lateral": "UI_AvatarIcon_Side_Durin",
+  "raridade": 5
+ },
+ "ineffa": {
+  "icone": "UI_AvatarIcon_Ineffa",
+  "lateral": "UI_AvatarIcon_Side_Ineffa",
+  "raridade": 5
+ },
+ "mizuki": {
+  "icone": "UI_AvatarIcon_Mizuki",
+  "lateral": "UI_AvatarIcon_Side_Mizuki",
+  "raridade": 5
+ },
+ "albedo": {
+  "icone": "UI_AvatarIcon_Albedo",
+  "lateral": "UI_AvatarIcon_Side_Albedo",
+  "raridade": 5
+ },
+ "aloy": {
+  "icone": "UI_AvatarIcon_Aloy",
+  "lateral": "UI_AvatarIcon_Side_Aloy",
+  "raridade": 5
+ },
+ "itto": {
+  "icone": "UI_AvatarIcon_Itto",
+  "lateral": "UI_AvatarIcon_Side_Itto",
+  "raridade": 5
+ },
+ "chasca": {
+  "icone": "UI_AvatarIcon_Chasca",
+  "lateral": "UI_AvatarIcon_Side_Chasca",
+  "raridade": 5
+ },
+ "chiori": {
+  "icone": "UI_AvatarIcon_Chiori",
+  "lateral": "UI_AvatarIcon_Side_Chiori",
+  "raridade": 5
+ },
+ "cyno": {
+  "icone": "UI_AvatarIcon_Cyno",
+  "lateral": "UI_AvatarIcon_Side_Cyno",
+  "raridade": 5
+ },
+ "dehya": {
+  "icone": "UI_AvatarIcon_Dehya",
+  "lateral": "UI_AvatarIcon_Side_Dehya",
+  "raridade": 5
+ },
+ "diluc": {
+  "icone": "UI_AvatarIcon_Diluc",
+  "lateral": "UI_AvatarIcon_Side_Diluc",
+  "raridade": 5
+ },
+ "emilie": {
+  "icone": "UI_AvatarIcon_Emilie",
+  "lateral": "UI_AvatarIcon_Side_Emilie",
+  "raridade": 5
+ },
+ "escoffier": {
+  "icone": "UI_AvatarIcon_Escoffier",
+  "lateral": "UI_AvatarIcon_Side_Escoffier",
+  "raridade": 5
+ },
+ "flins": {
+  "icone": "UI_AvatarIcon_Flins",
+  "lateral": "UI_AvatarIcon_Side_Flins",
+  "raridade": 5
+ },
+ "jean": {
+  "icone": "UI_AvatarIcon_Qin",
+  "lateral": "UI_AvatarIcon_Side_Qin",
+  "raridade": 5
+ },
+ "ayato": {
+  "icone": "UI_AvatarIcon_Ayato",
+  "lateral": "UI_AvatarIcon_Side_Ayato",
+  "raridade": 5
+ },
+ "keqing": {
+  "icone": "UI_AvatarIcon_Keqing",
+  "lateral": "UI_AvatarIcon_Side_Keqing",
+  "raridade": 5
+ },
+ "kinich": {
+  "icone": "UI_AvatarIcon_Kinich",
+  "lateral": "UI_AvatarIcon_Side_Kinich",
+  "raridade": 5
+ },
+ "klee": {
+  "icone": "UI_AvatarIcon_Klee",
+  "lateral": "UI_AvatarIcon_Side_Klee",
+  "raridade": 5
+ },
+ "lauma": {
+  "icone": "UI_AvatarIcon_Lauma",
+  "lateral": "UI_AvatarIcon_Side_Lauma",
+  "raridade": 5
+ },
+ "lyney": {
+  "icone": "UI_AvatarIcon_Liney",
+  "lateral": "UI_AvatarIcon_Side_Liney",
+  "raridade": 5
+ },
+ "mona": {
+  "icone": "UI_AvatarIcon_Mona",
+  "lateral": "UI_AvatarIcon_Side_Mona",
+  "raridade": 5
+ },
+ "mualani": {
+  "icone": "UI_AvatarIcon_Mualani",
+  "lateral": "UI_AvatarIcon_Side_Mualani",
+  "raridade": 5
+ },
+ "nefer": {
+  "icone": "UI_AvatarIcon_Nefer",
+  "lateral": "UI_AvatarIcon_Side_Nefer",
+  "raridade": 5
+ },
+ "qiqi": {
+  "icone": "UI_AvatarIcon_Qiqi",
+  "lateral": "UI_AvatarIcon_Side_Qiqi",
+  "raridade": 5
+ },
+ "sigewinne": {
+  "icone": "UI_AvatarIcon_Sigewinne",
+  "lateral": "UI_AvatarIcon_Side_Sigewinne",
+  "raridade": 5
+ },
+ "skirk": {
+  "icone": "UI_AvatarIcon_SkirkNew",
+  "lateral": "UI_AvatarIcon_Side_SkirkNew",
+  "raridade": 5
+ },
+ "tartaglia": {
+  "icone": "UI_AvatarIcon_Tartaglia",
+  "lateral": "UI_AvatarIcon_Side_Tartaglia",
+  "raridade": 5
+ },
+ "tighnari": {
+  "icone": "UI_AvatarIcon_Tighnari",
+  "lateral": "UI_AvatarIcon_Side_Tighnari",
+  "raridade": 5
+ },
+ "varesa": {
+  "icone": "UI_AvatarIcon_Varesa",
+  "lateral": "UI_AvatarIcon_Side_Varesa",
+  "raridade": 5
+ },
+ "wriothesley": {
+  "icone": "UI_AvatarIcon_Wriothesley",
+  "lateral": "UI_AvatarIcon_Side_Wriothesley",
+  "raridade": 5
+ },
+ "xianyun": {
+  "icone": "UI_AvatarIcon_Liuyun",
+  "lateral": "UI_AvatarIcon_Side_Liuyun",
+  "raridade": 5
+ },
+ "yae-miko": {
+  "icone": "UI_AvatarIcon_Yae",
+  "lateral": "UI_AvatarIcon_Side_Yae",
+  "raridade": 5
+ },
+ "yoimiya": {
+  "icone": "UI_AvatarIcon_Yoimiya",
+  "lateral": "UI_AvatarIcon_Side_Yoimiya",
+  "raridade": 5
+ },
+ "columbina": {
+  "icone": "UI_AvatarIcon_Columbina",
+  "lateral": "UI_AvatarIcon_Side_Columbina",
+  "raridade": 5
+ },
+ "zibai": {
+  "icone": "UI_AvatarIcon_Zibai",
+  "lateral": "UI_AvatarIcon_Side_Zibai",
+  "raridade": 5
+ },
+ "varka": {
+  "icone": "UI_AvatarIcon_Varka",
+  "lateral": "UI_AvatarIcon_Side_Varka",
+  "raridade": 5
+ },
+ "linnea": {
+  "icone": "UI_AvatarIcon_Linnea",
+  "lateral": "UI_AvatarIcon_Side_Linnea",
+  "raridade": 5
+ },
+ "lohen": {
+  "icone": "UI_AvatarIcon_Lohen",
+  "lateral": "UI_AvatarIcon_Side_Lohen",
+  "raridade": 5
+ },
+ "sandrone": {
+  "icone": "UI_AvatarIcon_MarionetteNew",
+  "lateral": "UI_AvatarIcon_Side_MarionetteNew",
+  "raridade": 5
+ },
+ "vesna": {
+  "icone": "UI_AvatarIcon_Vesna",
+  "lateral": "UI_AvatarIcon_Side_Vesna",
+  "raridade": 5
+ },
+ "vodyanitsa": {
+  "icone": "UI_AvatarIcon_Vodyanitsa",
+  "lateral": "UI_AvatarIcon_Side_Vodyanitsa",
+  "raridade": 5
+ },
+ "mitya": {
+  "raridade": 5
+ },
+ "amber": {
+  "icone": "UI_AvatarIcon_Ambor",
+  "lateral": "UI_AvatarIcon_Side_Ambor",
+  "raridade": 4
+ },
+ "barbara": {
+  "icone": "UI_AvatarIcon_Barbara",
+  "lateral": "UI_AvatarIcon_Side_Barbara",
+  "raridade": 4
+ },
+ "beidou": {
+  "icone": "UI_AvatarIcon_Beidou",
+  "lateral": "UI_AvatarIcon_Side_Beidou",
+  "raridade": 4
+ },
+ "bennett": {
+  "icone": "UI_AvatarIcon_Bennett",
+  "lateral": "UI_AvatarIcon_Side_Bennett",
+  "raridade": 4
+ },
+ "candace": {
+  "icone": "UI_AvatarIcon_Candace",
+  "lateral": "UI_AvatarIcon_Side_Candace",
+  "raridade": 4
+ },
+ "charlotte": {
+  "icone": "UI_AvatarIcon_Charlotte",
+  "lateral": "UI_AvatarIcon_Side_Charlotte",
+  "raridade": 4
+ },
+ "chevreuse": {
+  "icone": "UI_AvatarIcon_Chevreuse",
+  "lateral": "UI_AvatarIcon_Side_Chevreuse",
+  "raridade": 4
+ },
+ "chongyun": {
+  "icone": "UI_AvatarIcon_Chongyun",
+  "lateral": "UI_AvatarIcon_Side_Chongyun",
+  "raridade": 4
+ },
+ "collei": {
+  "icone": "UI_AvatarIcon_Collei",
+  "lateral": "UI_AvatarIcon_Side_Collei",
+  "raridade": 4
+ },
+ "dahlia": {
+  "icone": "UI_AvatarIcon_Dahlia",
+  "lateral": "UI_AvatarIcon_Side_Dahlia",
+  "raridade": 4
+ },
+ "diona": {
+  "icone": "UI_AvatarIcon_Diona",
+  "lateral": "UI_AvatarIcon_Side_Diona",
+  "raridade": 4
+ },
+ "dori": {
+  "icone": "UI_AvatarIcon_Dori",
+  "lateral": "UI_AvatarIcon_Side_Dori",
+  "raridade": 4
+ },
+ "faruzan": {
+  "icone": "UI_AvatarIcon_Faruzan",
+  "lateral": "UI_AvatarIcon_Side_Faruzan",
+  "raridade": 4
+ },
+ "fischl": {
+  "icone": "UI_AvatarIcon_Fischl",
+  "lateral": "UI_AvatarIcon_Side_Fischl",
+  "raridade": 4
+ },
+ "freminet": {
+  "icone": "UI_AvatarIcon_Freminet",
+  "lateral": "UI_AvatarIcon_Side_Freminet",
+  "raridade": 4
+ },
+ "gaming": {
+  "icone": "UI_AvatarIcon_Gaming",
+  "lateral": "UI_AvatarIcon_Side_Gaming",
+  "raridade": 4
+ },
+ "gorou": {
+  "icone": "UI_AvatarIcon_Gorou",
+  "lateral": "UI_AvatarIcon_Side_Gorou",
+  "raridade": 4
+ },
+ "iansan": {
+  "icone": "UI_AvatarIcon_Iansan",
+  "lateral": "UI_AvatarIcon_Side_Iansan",
+  "raridade": 4
+ },
+ "ifa": {
+  "icone": "UI_AvatarIcon_Ifa",
+  "lateral": "UI_AvatarIcon_Side_Ifa",
+  "raridade": 4
+ },
+ "kachina": {
+  "icone": "UI_AvatarIcon_Kachina",
+  "lateral": "UI_AvatarIcon_Side_Kachina",
+  "raridade": 4
+ },
+ "kaeya": {
+  "icone": "UI_AvatarIcon_Kaeya",
+  "lateral": "UI_AvatarIcon_Side_Kaeya",
+  "raridade": 4
+ },
+ "kaveh": {
+  "icone": "UI_AvatarIcon_Kaveh",
+  "lateral": "UI_AvatarIcon_Side_Kaveh",
+  "raridade": 4
+ },
+ "kirara": {
+  "icone": "UI_AvatarIcon_Momoka",
+  "lateral": "UI_AvatarIcon_Side_Momoka",
+  "raridade": 4
+ },
+ "sara": {
+  "icone": "UI_AvatarIcon_Sara",
+  "lateral": "UI_AvatarIcon_Side_Sara",
+  "raridade": 4
+ },
+ "shinobu": {
+  "icone": "UI_AvatarIcon_Shinobu",
+  "lateral": "UI_AvatarIcon_Side_Shinobu",
+  "raridade": 4
+ },
+ "lan-yan": {
+  "icone": "UI_AvatarIcon_Lanyan",
+  "lateral": "UI_AvatarIcon_Side_Lanyan",
+  "raridade": 4
+ },
+ "layla": {
+  "icone": "UI_AvatarIcon_Layla",
+  "lateral": "UI_AvatarIcon_Side_Layla",
+  "raridade": 4
+ },
+ "lisa": {
+  "icone": "UI_AvatarIcon_Lisa",
+  "lateral": "UI_AvatarIcon_Side_Lisa",
+  "raridade": 4
+ },
+ "lynette": {
+  "icone": "UI_AvatarIcon_Linette",
+  "lateral": "UI_AvatarIcon_Side_Linette",
+  "raridade": 4
+ },
+ "mika": {
+  "icone": "UI_AvatarIcon_Mika",
+  "lateral": "UI_AvatarIcon_Side_Mika",
+  "raridade": 4
+ },
+ "ningguang": {
+  "icone": "UI_AvatarIcon_Ningguang",
+  "lateral": "UI_AvatarIcon_Side_Ningguang",
+  "raridade": 4
+ },
+ "noelle": {
+  "icone": "UI_AvatarIcon_Noel",
+  "lateral": "UI_AvatarIcon_Side_Noel",
+  "raridade": 4
+ },
+ "ororon": {
+  "icone": "UI_AvatarIcon_Olorun",
+  "lateral": "UI_AvatarIcon_Side_Olorun",
+  "raridade": 4
+ },
+ "razor": {
+  "icone": "UI_AvatarIcon_Razor",
+  "lateral": "UI_AvatarIcon_Side_Razor",
+  "raridade": 4
+ },
+ "rosaria": {
+  "icone": "UI_AvatarIcon_Rosaria",
+  "lateral": "UI_AvatarIcon_Side_Rosaria",
+  "raridade": 4
+ },
+ "sayu": {
+  "icone": "UI_AvatarIcon_Sayu",
+  "lateral": "UI_AvatarIcon_Side_Sayu",
+  "raridade": 4
+ },
+ "sethos": {
+  "icone": "UI_AvatarIcon_Sethos",
+  "lateral": "UI_AvatarIcon_Side_Sethos",
+  "raridade": 4
+ },
+ "heizou": {
+  "icone": "UI_AvatarIcon_Heizo",
+  "lateral": "UI_AvatarIcon_Side_Heizo",
+  "raridade": 4
+ },
+ "sucrose": {
+  "icone": "UI_AvatarIcon_Sucrose",
+  "lateral": "UI_AvatarIcon_Side_Sucrose",
+  "raridade": 4
+ },
+ "thoma": {
+  "icone": "UI_AvatarIcon_Tohma",
+  "lateral": "UI_AvatarIcon_Side_Tohma",
+  "raridade": 4
+ },
+ "xiangling": {
+  "icone": "UI_AvatarIcon_Xiangling",
+  "lateral": "UI_AvatarIcon_Side_Xiangling",
+  "raridade": 4
+ },
+ "xingqiu": {
+  "icone": "UI_AvatarIcon_Xingqiu",
+  "lateral": "UI_AvatarIcon_Side_Xingqiu",
+  "raridade": 4
+ },
+ "xinyan": {
+  "icone": "UI_AvatarIcon_Xinyan",
+  "lateral": "UI_AvatarIcon_Side_Xinyan",
+  "raridade": 4
+ },
+ "yanfei": {
+  "icone": "UI_AvatarIcon_Feiyan",
+  "lateral": "UI_AvatarIcon_Side_Feiyan",
+  "raridade": 4
+ },
+ "yaoyao": {
+  "icone": "UI_AvatarIcon_Yaoyao",
+  "lateral": "UI_AvatarIcon_Side_Yaoyao",
+  "raridade": 4
+ },
+ "yun-jin": {
+  "icone": "UI_AvatarIcon_Yunjin",
+  "lateral": "UI_AvatarIcon_Side_Yunjin",
+  "raridade": 4
+ },
+ "aino": {
+  "icone": "UI_AvatarIcon_Aino",
+  "lateral": "UI_AvatarIcon_Side_Aino",
+  "raridade": 4
+ },
+ "jahoda": {
+  "icone": "UI_AvatarIcon_Jahoda",
+  "lateral": "UI_AvatarIcon_Side_Jahoda",
+  "raridade": 4
+ },
+ "illuga": {
+  "icone": "UI_AvatarIcon_Illuga",
+  "lateral": "UI_AvatarIcon_Side_Illuga",
+  "raridade": 4
+ },
+ "prune": {
+  "icone": "UI_AvatarIcon_Prune",
+  "lateral": "UI_AvatarIcon_Side_Prune",
+  "raridade": 4
+ },
+ "alyosha": {
+  "icone": "UI_AvatarIcon_Alyosha",
+  "lateral": "UI_AvatarIcon_Side_Alyosha",
+  "raridade": 4
+ },
+ "valeriy": {
+  "raridade": 4
+ },
+ "viajante": {
+  "icone": "UI_AvatarIcon_PlayerGirl",
+  "lateral": "UI_AvatarIcon_Side_PlayerGirl",
+  "raridade": 5
+ }
+}

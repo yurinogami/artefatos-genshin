@@ -1,0 +1,1428 @@
+[
+ {
+  "en": "A Day Carved From Rising Winds",
+  "pt": "Ascensão Zéfira",
+  "pecas": {
+   "flower": {
+    "en": "Windborne Flower's Spruchdichtung",
+    "pt": "Inscrição da Flor da Brisa",
+    "icone": "UI_RelicIcon_15044_4"
+   },
+   "plume": {
+    "en": "Dawn's Brilliant Oath",
+    "pt": "Juramento Brilhante do Amanhecer",
+    "icone": "UI_RelicIcon_15044_2"
+   },
+   "sands": {
+    "en": "A Note in Spring's Leich",
+    "pt": "Uma Nota na Canção de Primavera",
+    "icone": "UI_RelicIcon_15044_5"
+   },
+   "goblet": {
+    "en": "Heldenepos's Unspoken Tale",
+    "pt": "Contos Não Contados em Banquetes",
+    "icone": "UI_RelicIcon_15044_1"
+   },
+   "circlet": {
+    "en": "Minnesang of Love and Lament",
+    "pt": "Poema do Amor e Lamento",
+    "icone": "UI_RelicIcon_15044_3"
+   }
+  }
+ },
+ {
+  "en": "Archaic Petra",
+  "pt": "Pedra Arcaica",
+  "pecas": {
+   "flower": {
+    "en": "Flower of Creviced Cliff",
+    "pt": "Flor do Penhasco Rachado",
+    "icone": "UI_RelicIcon_15014_4"
+   },
+   "plume": {
+    "en": "Feather of Jagged Peaks",
+    "pt": "Asas do Pico da Montanha",
+    "icone": "UI_RelicIcon_15014_2"
+   },
+   "sands": {
+    "en": "Sundial of Enduring Jade",
+    "pt": "Relógio de Sol de Jade Duradouro",
+    "icone": "UI_RelicIcon_15014_5"
+   },
+   "goblet": {
+    "en": "Goblet of Chiseled Crag",
+    "pt": "Taça do Escultor de Pedra",
+    "icone": "UI_RelicIcon_15014_1"
+   },
+   "circlet": {
+    "en": "Mask of Solitude Basalt",
+    "pt": "Imagem de uma Pedra Imóvel",
+    "icone": "UI_RelicIcon_15014_3"
+   }
+  }
+ },
+ {
+  "en": "Aubade of Morningstar and Moon",
+  "pt": "Serenata das Estrelas e da Lua",
+  "pecas": {
+   "flower": {
+    "en": "Moonlit Offering's Opulent Dream",
+    "pt": "Oferenda ao Luar: Sonho Ornamentado",
+    "icone": "UI_RelicIcon_15043_4"
+   },
+   "plume": {
+    "en": "Moonlit Offering's Parting Light",
+    "pt": "Oferenda ao Luar: Luz de Despedida",
+    "icone": "UI_RelicIcon_15043_2"
+   },
+   "sands": {
+    "en": "Moonlit Offering's Final Hour",
+    "pt": "Oferenda ao Luar: Hora Final",
+    "icone": "UI_RelicIcon_15043_5"
+   },
+   "goblet": {
+    "en": "Moonlit Offering's Libation",
+    "pt": "Oferenda ao Luar: Libação",
+    "icone": "UI_RelicIcon_15043_1"
+   },
+   "circlet": {
+    "en": "Moonlit Offering's Silver Crown",
+    "pt": "Oferenda ao Luar: Coroa Prateada",
+    "icone": "UI_RelicIcon_15043_3"
+   }
+  }
+ },
+ {
+  "en": "Blizzard Strayer",
+  "pt": "Herói Invernal",
+  "pecas": {
+   "flower": {
+    "en": "Snowswept Memory",
+    "pt": "Memória da Nevasca",
+    "icone": "UI_RelicIcon_14001_4"
+   },
+   "plume": {
+    "en": "Icebreaker's Resolve",
+    "pt": "Determinação do Quebrador de Gelo",
+    "icone": "UI_RelicIcon_14001_2"
+   },
+   "sands": {
+    "en": "Frozen Homeland's Demise",
+    "pt": "Fim da Terra Natal Gelada",
+    "icone": "UI_RelicIcon_14001_5"
+   },
+   "goblet": {
+    "en": "Frost-Weaved Dignity",
+    "pt": "Orgulho da Geada",
+    "icone": "UI_RelicIcon_14001_1"
+   },
+   "circlet": {
+    "en": "Broken Rime's Echo",
+    "pt": "Eco do Inverno",
+    "icone": "UI_RelicIcon_14001_3"
+   }
+  }
+ },
+ {
+  "en": "Bloodstained Chivalry",
+  "pt": "Cavaleiro Manchado de Sangue",
+  "pecas": {
+   "flower": {
+    "en": "Bloodstained Flower of Iron",
+    "pt": "Coração de Ferro Sanguinário",
+    "icone": "UI_RelicIcon_15008_4"
+   },
+   "plume": {
+    "en": "Bloodstained Black Plume",
+    "pt": "Pena Negra Sanguinária",
+    "icone": "UI_RelicIcon_15008_2"
+   },
+   "sands": {
+    "en": "Bloodstained Final Hour",
+    "pt": "Relógio do Cavaleiro Sanguinário",
+    "icone": "UI_RelicIcon_15008_5"
+   },
+   "goblet": {
+    "en": "Bloodstained Chevalier's Goblet",
+    "pt": "Cálice do Cavaleiro Sanguinário",
+    "icone": "UI_RelicIcon_15008_1"
+   },
+   "circlet": {
+    "en": "Bloodstained Iron Mask",
+    "pt": "Máscara de Ferro Sanguinária",
+    "icone": "UI_RelicIcon_15008_3"
+   }
+  }
+ },
+ {
+  "en": "Celestial Gift",
+  "pt": "Dádiva Celestial",
+  "pecas": {
+   "flower": {
+    "en": "Heavensent Fragrance",
+    "pt": "Fragrância Celestial",
+    "icone": "UI_RelicIcon_15045_4"
+   },
+   "plume": {
+    "en": "Heavensent Demise",
+    "pt": "Perdição Celestial",
+    "icone": "UI_RelicIcon_15045_2"
+   },
+   "sands": {
+    "en": "Heavensent Decree",
+    "pt": "Decreto Celestial",
+    "icone": "UI_RelicIcon_15045_5"
+   },
+   "goblet": {
+    "en": "Heavensent Reward",
+    "pt": "Recompensa Celestial",
+    "icone": "UI_RelicIcon_15045_1"
+   },
+   "circlet": {
+    "en": "Heavensent Crown",
+    "pt": "Coroa Celestial",
+    "icone": "UI_RelicIcon_15045_3"
+   }
+  }
+ },
+ {
+  "en": "Crimson Witch of Flames",
+  "pt": "A Bruxa das Chamas Carmesim",
+  "pecas": {
+   "flower": {
+    "en": "Witch's Flower of Blaze",
+    "pt": "Flor de Labareda da Bruxa",
+    "icone": "UI_RelicIcon_15006_4"
+   },
+   "plume": {
+    "en": "Witch's Ever-Burning Plume",
+    "pt": "Pena Ardente da Bruxa",
+    "icone": "UI_RelicIcon_15006_2"
+   },
+   "sands": {
+    "en": "Witch's End Time",
+    "pt": "Fim dos Tempos da Bruxa",
+    "icone": "UI_RelicIcon_15006_5"
+   },
+   "goblet": {
+    "en": "Witch's Heart Flames",
+    "pt": "Chamas do Coração da Bruxa",
+    "icone": "UI_RelicIcon_15006_1"
+   },
+   "circlet": {
+    "en": "Witch's Scorching Hat",
+    "pt": "Chapéu Abrasador da Bruxa",
+    "icone": "UI_RelicIcon_15006_3"
+   }
+  }
+ },
+ {
+  "en": "Deepwood Memories",
+  "pt": "Memórias da Floresta",
+  "pecas": {
+   "flower": {
+    "en": "Labyrinth Wayfarer",
+    "pt": "Visitante do Labirinto",
+    "icone": "UI_RelicIcon_15025_4"
+   },
+   "plume": {
+    "en": "Scholar of Vines",
+    "pt": "Estudioso de Vinhas",
+    "icone": "UI_RelicIcon_15025_2"
+   },
+   "sands": {
+    "en": "A Time of Insight",
+    "pt": "Momento de Sabedoria",
+    "icone": "UI_RelicIcon_15025_5"
+   },
+   "goblet": {
+    "en": "Lamp of the Lost",
+    "pt": "Lanterna do Perdido",
+    "icone": "UI_RelicIcon_15025_1"
+   },
+   "circlet": {
+    "en": "Laurel Coronet",
+    "pt": "Diadema Láurea",
+    "icone": "UI_RelicIcon_15025_3"
+   }
+  }
+ },
+ {
+  "en": "Desert Pavilion Chronicle",
+  "pt": "Crônicas do Pavilhão do Deserto",
+  "pecas": {
+   "flower": {
+    "en": "The First Days of the City of Kings",
+    "pt": "Início da Capital dos Reis",
+    "icone": "UI_RelicIcon_15027_4"
+   },
+   "plume": {
+    "en": "End of the Golden Realm",
+    "pt": "Final do País Dourado",
+    "icone": "UI_RelicIcon_15027_2"
+   },
+   "sands": {
+    "en": "Timepiece of the Lost Path",
+    "pt": "Relógio dos Caminhos Perdidos",
+    "icone": "UI_RelicIcon_15027_5"
+   },
+   "goblet": {
+    "en": "Defender of the Enchanting Dream",
+    "pt": "Protetor dos Sonhos Inebriantes",
+    "icone": "UI_RelicIcon_15027_1"
+   },
+   "circlet": {
+    "en": "Legacy of the Desert High-Born",
+    "pt": "Tesouro das Areias Movediças",
+    "icone": "UI_RelicIcon_15027_3"
+   }
+  }
+ },
+ {
+  "en": "Disenchantment in Deep Shadow",
+  "pt": "Desencantamento na Sombra Profunda",
+  "pecas": {
+   "flower": {
+    "en": "Iridescence That Ceased Amidst Glory",
+    "pt": "Iridescência que Cessou Entre a Glória",
+    "icone": "UI_RelicIcon_15046_4"
+   },
+   "plume": {
+    "en": "Sharpness That Ceased Upon Wondrous Creation",
+    "pt": "Afiação que Cessou na Criação Maravilhosa",
+    "icone": "UI_RelicIcon_15046_2"
+   },
+   "sands": {
+    "en": "Moment That Ceased Upon Waking From Grand Dreams",
+    "pt": "Momento que Cessou ao Despertar dos Grandes Sonhos",
+    "icone": "UI_RelicIcon_15046_5"
+   },
+   "goblet": {
+    "en": "Ovations That Ceased Upon Festivity",
+    "pt": "Ovações que Cessaram na Festividade",
+    "icone": "UI_RelicIcon_15046_1"
+   },
+   "circlet": {
+    "en": "Pendulum That Ceased Amidst a Great Fall",
+    "pt": "Pêndulo que Cessou na Grande Queda",
+    "icone": "UI_RelicIcon_15046_3"
+   }
+  }
+ },
+ {
+  "en": "Echoes of an Offering",
+  "pt": "Eco do Sacrifício",
+  "pecas": {
+   "flower": {
+    "en": "Soulscent Bloom",
+    "pt": "Flor da Fragrância Espiritual",
+    "icone": "UI_RelicIcon_15024_4"
+   },
+   "plume": {
+    "en": "Jade Leaf",
+    "pt": "Folha de Jade",
+    "icone": "UI_RelicIcon_15024_2"
+   },
+   "sands": {
+    "en": "Symbol of Felicitation",
+    "pt": "Símbolo da Oferenda",
+    "icone": "UI_RelicIcon_15024_5"
+   },
+   "goblet": {
+    "en": "Chalice of the Font",
+    "pt": "Cálice da Fonte",
+    "icone": "UI_RelicIcon_15024_1"
+   },
+   "circlet": {
+    "en": "Flowing Rings",
+    "pt": "Jades da Torrente",
+    "icone": "UI_RelicIcon_15024_3"
+   }
+  }
+ },
+ {
+  "en": "Emblem of Severed Fate",
+  "pt": "Selo da Insulação",
+  "pecas": {
+   "flower": {
+    "en": "Magnificent Tsuba",
+    "pt": "Pomo Poderoso",
+    "icone": "UI_RelicIcon_15020_4"
+   },
+   "plume": {
+    "en": "Sundered Feather",
+    "pt": "Pluma Cortada",
+    "icone": "UI_RelicIcon_15020_2"
+   },
+   "sands": {
+    "en": "Storm Cage",
+    "pt": "Gaiola da Tempestade",
+    "icone": "UI_RelicIcon_15020_5"
+   },
+   "goblet": {
+    "en": "Scarlet Vessel",
+    "pt": "Ânfora das Flores Escarlates",
+    "icone": "UI_RelicIcon_15020_1"
+   },
+   "circlet": {
+    "en": "Ornate Kabuto",
+    "pt": "Capacete Ornamentado",
+    "icone": "UI_RelicIcon_15020_3"
+   }
+  }
+ },
+ {
+  "en": "Finale of the Deep Galleries",
+  "pt": "Epílogo do Corredor",
+  "pecas": {
+   "flower": {
+    "en": "Deep Gallery's Echoing Song",
+    "pt": "Ecos do Corredor Profundo",
+    "icone": "UI_RelicIcon_15040_4"
+   },
+   "plume": {
+    "en": "Deep Gallery's Distant Pact",
+    "pt": "Promessa do Corredor Profundo",
+    "icone": "UI_RelicIcon_15040_2"
+   },
+   "sands": {
+    "en": "Deep Gallery's Moment of Oblivion",
+    "pt": "Passagem do Corredor Profundo",
+    "icone": "UI_RelicIcon_15040_5"
+   },
+   "goblet": {
+    "en": "Deep Gallery's Bestowed Banquet",
+    "pt": "Banquete do Corredor Profundo",
+    "icone": "UI_RelicIcon_15040_1"
+   },
+   "circlet": {
+    "en": "Deep Gallery's Lost Crown",
+    "pt": "Coroa Perdida do Corredor Profundo",
+    "icone": "UI_RelicIcon_15040_3"
+   }
+  }
+ },
+ {
+  "en": "Flower of Paradise Lost",
+  "pt": "Flor do Paraíso Perdido",
+  "pecas": {
+   "flower": {
+    "en": "Ay-Khanoum's Myriad",
+    "pt": "Esplendor da Dama da Lua",
+    "icone": "UI_RelicIcon_15028_4"
+   },
+   "plume": {
+    "en": "Wilting Feast",
+    "pt": "Banquete dos Agradecimentos",
+    "icone": "UI_RelicIcon_15028_2"
+   },
+   "sands": {
+    "en": "A Moment Congealed",
+    "pt": "Momento da Condensação",
+    "icone": "UI_RelicIcon_15028_5"
+   },
+   "goblet": {
+    "en": "Secret-Keeper's Magic Bottle",
+    "pt": "Garrafa Mágica da Confidência",
+    "icone": "UI_RelicIcon_15028_1"
+   },
+   "circlet": {
+    "en": "Amethyst Crown",
+    "pt": "Coroa Ametista",
+    "icone": "UI_RelicIcon_15028_3"
+   }
+  }
+ },
+ {
+  "en": "Fragment of Harmonic Whimsy",
+  "pt": "Fragmento da Harmonia Fantástica",
+  "pecas": {
+   "flower": {
+    "en": "Harmonious Symphony Prelude",
+    "pt": "Prelúdio da Sinfonia Harmoniosa",
+    "icone": "UI_RelicIcon_15035_4"
+   },
+   "plume": {
+    "en": "Ancient Sea's Nocturnal Musing",
+    "pt": "Reflexão Noturna do Mar Antigo",
+    "icone": "UI_RelicIcon_15035_2"
+   },
+   "sands": {
+    "en": "The Grand Jape of the Turning of Fate",
+    "pt": "A Grande Farsa da Volta do Destino",
+    "icone": "UI_RelicIcon_15035_5"
+   },
+   "goblet": {
+    "en": "Ichor Shower Rhapsody",
+    "pt": "Rapsódia da Chuva de Icor",
+    "icone": "UI_RelicIcon_15035_1"
+   },
+   "circlet": {
+    "en": "Whimsical Dance of the Withered",
+    "pt": "Valsa Divergente dos Caídos",
+    "icone": "UI_RelicIcon_15035_3"
+   }
+  }
+ },
+ {
+  "en": "Gilded Dreams",
+  "pt": "Sonhos Dourados",
+  "pecas": {
+   "flower": {
+    "en": "Dreaming Steelbloom",
+    "pt": "Flor de Metal Onírica",
+    "icone": "UI_RelicIcon_15026_4"
+   },
+   "plume": {
+    "en": "Feather of Judgment",
+    "pt": "Pluma do Julgamento",
+    "icone": "UI_RelicIcon_15026_2"
+   },
+   "sands": {
+    "en": "The Sunken Years",
+    "pt": "Anos Dourados",
+    "icone": "UI_RelicIcon_15026_5"
+   },
+   "goblet": {
+    "en": "Honeyed Final Feast",
+    "pt": "Banquete Final do Mel",
+    "icone": "UI_RelicIcon_15026_1"
+   },
+   "circlet": {
+    "en": "Shadow of the Sand King",
+    "pt": "Sombra do Rei das Areias",
+    "icone": "UI_RelicIcon_15026_3"
+   }
+  }
+ },
+ {
+  "en": "Gladiator's Finale",
+  "pt": "Último Juramento do Gladiador",
+  "pecas": {
+   "flower": {
+    "en": "Gladiator's Nostalgia",
+    "pt": "Nostalgia do Gladiador",
+    "icone": "UI_RelicIcon_15001_4"
+   },
+   "plume": {
+    "en": "Gladiator's Destiny",
+    "pt": "Destino do Gladiador",
+    "icone": "UI_RelicIcon_15001_2"
+   },
+   "sands": {
+    "en": "Gladiator's Longing",
+    "pt": "Esperança do Gladiador",
+    "icone": "UI_RelicIcon_15001_5"
+   },
+   "goblet": {
+    "en": "Gladiator's Intoxication",
+    "pt": "Embriaguez do Gladiador",
+    "icone": "UI_RelicIcon_15001_1"
+   },
+   "circlet": {
+    "en": "Gladiator's Triumphus",
+    "pt": "Triunfo do Gladiador",
+    "icone": "UI_RelicIcon_15001_3"
+   }
+  }
+ },
+ {
+  "en": "Golden Troupe",
+  "pt": "Trupe Dourada",
+  "pecas": {
+   "flower": {
+    "en": "Golden Song's Variation",
+    "pt": "Variação da Composição Dourada",
+    "icone": "UI_RelicIcon_15032_4"
+   },
+   "plume": {
+    "en": "Golden Bird's Shedding",
+    "pt": "Pena Caída do Pássaro Dourado",
+    "icone": "UI_RelicIcon_15032_2"
+   },
+   "sands": {
+    "en": "Golden Era's Prelude",
+    "pt": "Abertura da Era Dourada",
+    "icone": "UI_RelicIcon_15032_5"
+   },
+   "goblet": {
+    "en": "Golden Night's Bustle",
+    "pt": "Clamor da Noite Dourada",
+    "icone": "UI_RelicIcon_15032_1"
+   },
+   "circlet": {
+    "en": "Golden Troupe's Reward",
+    "pt": "Recompensa da Trupe Dourada",
+    "icone": "UI_RelicIcon_15032_3"
+   }
+  }
+ },
+ {
+  "en": "Heart of Depth",
+  "pt": "Profundezas do Coração",
+  "pecas": {
+   "flower": {
+    "en": "Gilded Corsage",
+    "pt": "Broche Dourado",
+    "icone": "UI_RelicIcon_15016_4"
+   },
+   "plume": {
+    "en": "Gust of Nostalgia",
+    "pt": "Brisa da Nostalgia",
+    "icone": "UI_RelicIcon_15016_2"
+   },
+   "sands": {
+    "en": "Copper Compass",
+    "pt": "Bússola de Cobre",
+    "icone": "UI_RelicIcon_15016_5"
+   },
+   "goblet": {
+    "en": "Goblet of Thundering Deep",
+    "pt": "Cálice das Profundezas",
+    "icone": "UI_RelicIcon_15016_1"
+   },
+   "circlet": {
+    "en": "Wine-Stained Tricorne",
+    "pt": "Quepe de Capitão Manchado de Vinho",
+    "icone": "UI_RelicIcon_15016_3"
+   }
+  }
+ },
+ {
+  "en": "Heart of the Furnace",
+  "pt": "Coração Forjado",
+  "pecas": {
+   "flower": {
+    "en": "Foundryman's Conjecture",
+    "pt": "Suposição do Forjador",
+    "icone": "UI_RelicIcon_15048_4"
+   },
+   "plume": {
+    "en": "Foundryman's Observation",
+    "pt": "Observação do Forjador",
+    "icone": "UI_RelicIcon_15048_2"
+   },
+   "sands": {
+    "en": "Foundryman's Calculus",
+    "pt": "Contagem do Forjador",
+    "icone": "UI_RelicIcon_15048_5"
+   },
+   "goblet": {
+    "en": "Foundryman's Magnanimity",
+    "pt": "Magnanimidade do Forjador",
+    "icone": "UI_RelicIcon_15048_1"
+   },
+   "circlet": {
+    "en": "Foundryman's Legacy",
+    "pt": "Ambição do Forjador",
+    "icone": "UI_RelicIcon_15048_3"
+   }
+  }
+ },
+ {
+  "en": "Husk of Opulent Dreams",
+  "pt": "Casca de Sonhos Opulentos",
+  "pecas": {
+   "flower": {
+    "en": "Bloom Times",
+    "pt": "Período de Glória",
+    "icone": "UI_RelicIcon_15021_4"
+   },
+   "plume": {
+    "en": "Plume of Luxury",
+    "pt": "Pavilhão das Plumas",
+    "icone": "UI_RelicIcon_15021_2"
+   },
+   "sands": {
+    "en": "Song of Life",
+    "pt": "Canção da Vida",
+    "icone": "UI_RelicIcon_15021_5"
+   },
+   "goblet": {
+    "en": "Calabash of Awakening",
+    "pt": "Despertar dos Sonhos",
+    "icone": "UI_RelicIcon_15021_1"
+   },
+   "circlet": {
+    "en": "Skeletal Hat",
+    "pt": "Chapéu do Esqueleto",
+    "icone": "UI_RelicIcon_15021_3"
+   }
+  }
+ },
+ {
+  "en": "Lavawalker",
+  "pt": "Atravessador do Fogo",
+  "pecas": {
+   "flower": {
+    "en": "Lavawalker's Resolution",
+    "pt": "Determinação do Corredor de Lava",
+    "icone": "UI_RelicIcon_14003_4"
+   },
+   "plume": {
+    "en": "Lavawalker's Salvation",
+    "pt": "Libertação do Corredor de Lava",
+    "icone": "UI_RelicIcon_14003_2"
+   },
+   "sands": {
+    "en": "Lavawalker's Torment",
+    "pt": "Tortura do Corredor de Lava",
+    "icone": "UI_RelicIcon_14003_5"
+   },
+   "goblet": {
+    "en": "Lavawalker's Epiphany",
+    "pt": "Despertamento do Corredor de Lava",
+    "icone": "UI_RelicIcon_14003_1"
+   },
+   "circlet": {
+    "en": "Lavawalker's Wisdom",
+    "pt": "Sabedoria do Corredor de Lava",
+    "icone": "UI_RelicIcon_14003_3"
+   }
+  }
+ },
+ {
+  "en": "Long Night's Oath",
+  "pt": "Juramento da Noite Eterna",
+  "pecas": {
+   "flower": {
+    "en": "Lightkeeper's Pledge",
+    "pt": "Juramento do Portador da Lâmpada",
+    "icone": "UI_RelicIcon_15039_4"
+   },
+   "plume": {
+    "en": "Nightingale's Tail Feather",
+    "pt": "Pluma da Rouxinol Noturna",
+    "icone": "UI_RelicIcon_15039_2"
+   },
+   "sands": {
+    "en": "Undying One's Mourning Bell",
+    "pt": "Sino Fúnebre do Imortal",
+    "icone": "UI_RelicIcon_15039_5"
+   },
+   "goblet": {
+    "en": "A Horn Unwinded",
+    "pt": "Trompa Não Soprada",
+    "icone": "UI_RelicIcon_15039_1"
+   },
+   "circlet": {
+    "en": "Dyed Tassel",
+    "pt": "Elmo Tingido",
+    "icone": "UI_RelicIcon_15039_3"
+   }
+  }
+ },
+ {
+  "en": "Maiden Beloved",
+  "pt": "Donzela Amada",
+  "pecas": {
+   "flower": {
+    "en": "Maiden's Distant Love",
+    "pt": "Amor Distante da Donzela",
+    "icone": "UI_RelicIcon_14004_4"
+   },
+   "plume": {
+    "en": "Maiden's Heart-stricken Infatuation",
+    "pt": "Lembranças da Donzela",
+    "icone": "UI_RelicIcon_14004_2"
+   },
+   "sands": {
+    "en": "Maiden's Passing Youth",
+    "pt": "Juventude Passageira da Donzela",
+    "icone": "UI_RelicIcon_14004_5"
+   },
+   "goblet": {
+    "en": "Maiden's Fleeting Leisure",
+    "pt": "Passatempo da Donzela",
+    "icone": "UI_RelicIcon_14004_1"
+   },
+   "circlet": {
+    "en": "Maiden's Fading Beauty",
+    "pt": "Beleza Desvanecida da Donzela",
+    "icone": "UI_RelicIcon_14004_3"
+   }
+  }
+ },
+ {
+  "en": "Marechaussee Hunter",
+  "pt": "Caçador das Sombras",
+  "pecas": {
+   "flower": {
+    "en": "Hunter's Brooch",
+    "pt": "Flor de Lapela do Caçador",
+    "icone": "UI_RelicIcon_15031_4"
+   },
+   "plume": {
+    "en": "Masterpiece's Overture",
+    "pt": "Abertura de Obra-prima",
+    "icone": "UI_RelicIcon_15031_2"
+   },
+   "sands": {
+    "en": "Moment of Judgment",
+    "pt": "Momento do Julgamento",
+    "icone": "UI_RelicIcon_15031_5"
+   },
+   "goblet": {
+    "en": "Forgotten Vessel",
+    "pt": "Recipiente Esquecido",
+    "icone": "UI_RelicIcon_15031_1"
+   },
+   "circlet": {
+    "en": "Veteran's Visage",
+    "pt": "Semblante do Veterano",
+    "icone": "UI_RelicIcon_15031_3"
+   }
+  }
+ },
+ {
+  "en": "Night of the Sky's Unveiling",
+  "pt": "Noite da Revelação do Céu",
+  "pecas": {
+   "flower": {
+    "en": "Bloom of the Mind's Desire",
+    "pt": "Flor do Desejo Mental",
+    "icone": "UI_RelicIcon_15041_4"
+   },
+   "plume": {
+    "en": "Feather of Indelible Sin",
+    "pt": "Pena do Pecado",
+    "icone": "UI_RelicIcon_15041_2"
+   },
+   "sands": {
+    "en": "Revelation's Toll",
+    "pt": "Relógio do Anúncio",
+    "icone": "UI_RelicIcon_15041_5"
+   },
+   "goblet": {
+    "en": "Vessel of Plenty",
+    "pt": "Cálice Transbordante",
+    "icone": "UI_RelicIcon_15041_1"
+   },
+   "circlet": {
+    "en": "Crown of the Befallen",
+    "pt": "Coroa dos Caídos",
+    "icone": "UI_RelicIcon_15041_3"
+   }
+  }
+ },
+ {
+  "en": "Nighttime Whispers in the Echoing Woods",
+  "pt": "Ecos da Floresta Noturna",
+  "pecas": {
+   "flower": {
+    "en": "Selfless Floral Accessory",
+    "pt": "Flor Altruísta",
+    "icone": "UI_RelicIcon_15034_4"
+   },
+   "plume": {
+    "en": "Honest Quill",
+    "pt": "Pincel de Nanquim Honesto",
+    "icone": "UI_RelicIcon_15034_2"
+   },
+   "sands": {
+    "en": "Faithful Hourglass",
+    "pt": "Relógio da Lealdade",
+    "icone": "UI_RelicIcon_15034_5"
+   },
+   "goblet": {
+    "en": "Magnanimous Ink Bottle",
+    "pt": "Garrafa Cheia de Nanquim",
+    "icone": "UI_RelicIcon_15034_1"
+   },
+   "circlet": {
+    "en": "Compassionate Ladies' Hat",
+    "pt": "Chapéu da Senhorita Amável",
+    "icone": "UI_RelicIcon_15034_3"
+   }
+  }
+ },
+ {
+  "en": "Noblesse Oblige",
+  "pt": "Antigo Ritual Real",
+  "pecas": {
+   "flower": {
+    "en": "Royal Flora",
+    "pt": "Flor Real",
+    "icone": "UI_RelicIcon_15007_4"
+   },
+   "plume": {
+    "en": "Royal Plume",
+    "pt": "Pena Real",
+    "icone": "UI_RelicIcon_15007_2"
+   },
+   "sands": {
+    "en": "Royal Pocket Watch",
+    "pt": "Relógio de Bolso Real",
+    "icone": "UI_RelicIcon_15007_5"
+   },
+   "goblet": {
+    "en": "Royal Silver Urn",
+    "pt": "Urna de Prata Real",
+    "icone": "UI_RelicIcon_15007_1"
+   },
+   "circlet": {
+    "en": "Royal Masque",
+    "pt": "Máscara Real",
+    "icone": "UI_RelicIcon_15007_3"
+   }
+  }
+ },
+ {
+  "en": "Nymph's Dream",
+  "pt": "Sonho da Ninfa",
+  "pecas": {
+   "flower": {
+    "en": "Odyssean Flower",
+    "pt": "Flor da Jornada",
+    "icone": "UI_RelicIcon_15029_4"
+   },
+   "plume": {
+    "en": "Wicked Mage's Plumule",
+    "pt": "Pluma do Feiticeiro Maléfico",
+    "icone": "UI_RelicIcon_15029_2"
+   },
+   "sands": {
+    "en": "Nymph's Constancy",
+    "pt": "Ninfas Eternas",
+    "icone": "UI_RelicIcon_15029_5"
+   },
+   "goblet": {
+    "en": "Heroes' Tea Party",
+    "pt": "Festa de Chá dos Heróis",
+    "icone": "UI_RelicIcon_15029_1"
+   },
+   "circlet": {
+    "en": "Fell Dragon's Monocle",
+    "pt": "Monóculo do Dragão Maligno",
+    "icone": "UI_RelicIcon_15029_3"
+   }
+  }
+ },
+ {
+  "en": "Obsidian Codex",
+  "pt": "Códice de Obsidiana",
+  "pecas": {
+   "flower": {
+    "en": "Reckoning of the Xenogenic",
+    "pt": "Julgamento Primordial",
+    "icone": "UI_RelicIcon_15038_4"
+   },
+   "plume": {
+    "en": "Root of the Spirit-Marrow",
+    "pt": "Raiz da Medula do Espírito",
+    "icone": "UI_RelicIcon_15038_2"
+   },
+   "sands": {
+    "en": "Myths of the Night Realm",
+    "pt": "Mitos do Reino da Noite",
+    "icone": "UI_RelicIcon_15038_5"
+   },
+   "goblet": {
+    "en": "Pre-Banquet of the Contenders",
+    "pt": "Pré-Banquete dos Desafiantes",
+    "icone": "UI_RelicIcon_15038_1"
+   },
+   "circlet": {
+    "en": "Crown of the Saints",
+    "pt": "Coroa das Divindades",
+    "icone": "UI_RelicIcon_15038_3"
+   }
+  }
+ },
+ {
+  "en": "Ocean-Hued Clam",
+  "pt": "Concha Tingida Pelo Mar",
+  "pecas": {
+   "flower": {
+    "en": "Sea-Dyed Blossom",
+    "pt": "Flor Tingida Pelo Mar",
+    "icone": "UI_RelicIcon_15022_4"
+   },
+   "plume": {
+    "en": "Deep Palace's Plume",
+    "pt": "Pluma do Palácio Profundo",
+    "icone": "UI_RelicIcon_15022_2"
+   },
+   "sands": {
+    "en": "Cowry of Parting",
+    "pt": "Concha da Separação",
+    "icone": "UI_RelicIcon_15022_5"
+   },
+   "goblet": {
+    "en": "Pearl Cage",
+    "pt": "Jaula de pérola",
+    "icone": "UI_RelicIcon_15022_1"
+   },
+   "circlet": {
+    "en": "Crown of Watatsumi",
+    "pt": "Coroa de Watatsumi",
+    "icone": "UI_RelicIcon_15022_3"
+   }
+  }
+ },
+ {
+  "en": "Pale Flame",
+  "pt": "Chama Pálida",
+  "pecas": {
+   "flower": {
+    "en": "Stainless Bloom",
+    "pt": "Flor da Purificação",
+    "icone": "UI_RelicIcon_15018_4"
+   },
+   "plume": {
+    "en": "Wise Doctor's Pinion",
+    "pt": "Pena do Médico Virtuoso",
+    "icone": "UI_RelicIcon_15018_2"
+   },
+   "sands": {
+    "en": "Moment of Cessation",
+    "pt": "Momento de Cessação",
+    "icone": "UI_RelicIcon_15018_5"
+   },
+   "goblet": {
+    "en": "Surpassing Cup",
+    "pt": "Taça da Superação",
+    "icone": "UI_RelicIcon_15018_1"
+   },
+   "circlet": {
+    "en": "Mocking Mask",
+    "pt": "Máscara Sorridente",
+    "icone": "UI_RelicIcon_15018_3"
+   }
+  }
+ },
+ {
+  "en": "Retracing Bolide",
+  "pt": "Meteoro Invertido",
+  "pecas": {
+   "flower": {
+    "en": "Summer Night's Bloom",
+    "pt": "Flor do Festival de Verão",
+    "icone": "UI_RelicIcon_15015_4"
+   },
+   "plume": {
+    "en": "Summer Night's Finale",
+    "pt": "Fim do Festival de Verão",
+    "icone": "UI_RelicIcon_15015_2"
+   },
+   "sands": {
+    "en": "Summer Night's Moment",
+    "pt": "Momento do Festival de Verão",
+    "icone": "UI_RelicIcon_15015_5"
+   },
+   "goblet": {
+    "en": "Summer Night's Waterballoon",
+    "pt": "Balões de Água do Festival de Verão",
+    "icone": "UI_RelicIcon_15015_1"
+   },
+   "circlet": {
+    "en": "Summer Night's Mask",
+    "pt": "Máscara do Festival de Verão",
+    "icone": "UI_RelicIcon_15015_3"
+   }
+  }
+ },
+ {
+  "en": "Scarlet Proof",
+  "pt": "Prova Escarlate",
+  "pecas": {
+   "flower": {
+    "en": "Honor to Your Devotion",
+    "pt": "Devoção Honrada",
+    "icone": "UI_RelicIcon_15047_4"
+   },
+   "plume": {
+    "en": "Glory to Your Legacy",
+    "pt": "Glória ao Seu Legado",
+    "icone": "UI_RelicIcon_15047_2"
+   },
+   "sands": {
+    "en": "Time Gifted Unto You",
+    "pt": "Presente do Tempo",
+    "icone": "UI_RelicIcon_15047_5"
+   },
+   "goblet": {
+    "en": "Chalice of Your Blood and Sorrow",
+    "pt": "Cálice do Sangue e Sofrimento",
+    "icone": "UI_RelicIcon_15047_1"
+   },
+   "circlet": {
+    "en": "Testament to Your Faith",
+    "pt": "Prova de Fé",
+    "icone": "UI_RelicIcon_15047_3"
+   }
+  }
+ },
+ {
+  "en": "Scroll of the Hero of Cinder City",
+  "pt": "Pergaminho do Herói da Cidade Incandescente",
+  "pecas": {
+   "flower": {
+    "en": "Beast Tamer's Talisman",
+    "pt": "Talismã do Domador de Feras",
+    "icone": "UI_RelicIcon_15037_4"
+   },
+   "plume": {
+    "en": "Mountain Ranger's Marker",
+    "pt": "Sinalizador do Guarda das Montanhas",
+    "icone": "UI_RelicIcon_15037_2"
+   },
+   "sands": {
+    "en": "Mystic's Gold Dial",
+    "pt": "Relógio Dourado da Mística",
+    "icone": "UI_RelicIcon_15037_5"
+   },
+   "goblet": {
+    "en": "Wandering Scholar's Claw Cup",
+    "pt": "Cálice do Estudioso Viajante",
+    "icone": "UI_RelicIcon_15037_1"
+   },
+   "circlet": {
+    "en": "Demon-Warrior's Feather Mask",
+    "pt": "Máscara de Penas do Guerreiro Mágico",
+    "icone": "UI_RelicIcon_15037_3"
+   }
+  }
+ },
+ {
+  "en": "Shimenawa's Reminiscence",
+  "pt": "Reminiscência Nostálgica",
+  "pecas": {
+   "flower": {
+    "en": "Entangling Bloom",
+    "pt": "Flor Envolvente",
+    "icone": "UI_RelicIcon_15019_4"
+   },
+   "plume": {
+    "en": "Shaft of Remembrance",
+    "pt": "Flecha das Memórias Ponderativas",
+    "icone": "UI_RelicIcon_15019_2"
+   },
+   "sands": {
+    "en": "Morning Dew's Moment",
+    "pt": "Relógio da Alvorada",
+    "icone": "UI_RelicIcon_15019_5"
+   },
+   "goblet": {
+    "en": "Hopeful Heart",
+    "pt": "Coração da Esperança",
+    "icone": "UI_RelicIcon_15019_1"
+   },
+   "circlet": {
+    "en": "Capricious Visage",
+    "pt": "Máscara das Mutações",
+    "icone": "UI_RelicIcon_15019_3"
+   }
+  }
+ },
+ {
+  "en": "Silken Moon's Serenade",
+  "pt": "Serenata da Lua de Seda",
+  "pecas": {
+   "flower": {
+    "en": "Crystal Tear of the Wanderer",
+    "pt": "Lágrima Cristalizada do Errante",
+    "icone": "UI_RelicIcon_15042_4"
+   },
+   "plume": {
+    "en": "Pristine Plume of the Blessed",
+    "pt": "Pena Pristina dos Abençoados",
+    "icone": "UI_RelicIcon_15042_2"
+   },
+   "sands": {
+    "en": "Frost Devotee's Delirium",
+    "pt": "Delírio do Portador do Gelo",
+    "icone": "UI_RelicIcon_15042_5"
+   },
+   "goblet": {
+    "en": "Joyous Glory of the Pure",
+    "pt": "Alegria Gloriosa da Pureza",
+    "icone": "UI_RelicIcon_15042_1"
+   },
+   "circlet": {
+    "en": "Holy Crown of the Believer",
+    "pt": "Coroa Sagrada do Crente",
+    "icone": "UI_RelicIcon_15042_3"
+   }
+  }
+ },
+ {
+  "en": "Song of Days Past",
+  "pt": "Canção do Passado",
+  "pecas": {
+   "flower": {
+    "en": "Forgotten Oath of Days Past",
+    "pt": "Juramento Esquecido do Passado",
+    "icone": "UI_RelicIcon_15033_4"
+   },
+   "plume": {
+    "en": "Recollection of Days Past",
+    "pt": "Reflexões de Outrora",
+    "icone": "UI_RelicIcon_15033_2"
+   },
+   "sands": {
+    "en": "Echoing Sound From Days Past",
+    "pt": "Voz do Eco Passado",
+    "icone": "UI_RelicIcon_15033_5"
+   },
+   "goblet": {
+    "en": "Promised Dream of Days Past",
+    "pt": "Sonhos de Promessas Passadas",
+    "icone": "UI_RelicIcon_15033_1"
+   },
+   "circlet": {
+    "en": "Poetry of Days Past",
+    "pt": "Poesia Musical do Passado",
+    "icone": "UI_RelicIcon_15033_3"
+   }
+  }
+ },
+ {
+  "en": "Tenacity of the Millelith",
+  "pt": "Millelith Firmes",
+  "pecas": {
+   "flower": {
+    "en": "Flower of Accolades",
+    "pt": "Flor da Conquista",
+    "icone": "UI_RelicIcon_15017_4"
+   },
+   "plume": {
+    "en": "Ceremonial War-Plume",
+    "pt": "Pena Brilhante Marcial",
+    "icone": "UI_RelicIcon_15017_2"
+   },
+   "sands": {
+    "en": "Orichalceous Time-Dial",
+    "pt": "Relógio de Sol Dourado",
+    "icone": "UI_RelicIcon_15017_5"
+   },
+   "goblet": {
+    "en": "Noble's Pledging Vessel",
+    "pt": "Taça Dourada do Juramento",
+    "icone": "UI_RelicIcon_15017_1"
+   },
+   "circlet": {
+    "en": "General's Ancient Helm",
+    "pt": "Capacete do Comandante",
+    "icone": "UI_RelicIcon_15017_3"
+   }
+  }
+ },
+ {
+  "en": "Thundering Fury",
+  "pt": "Trovão Furioso",
+  "pecas": {
+   "flower": {
+    "en": "Thunderbird's Mercy",
+    "pt": "Misericórdia da Pássaro do Trovão",
+    "icone": "UI_RelicIcon_15005_4"
+   },
+   "plume": {
+    "en": "Survivor of Catastrophe",
+    "pt": "Sobreviventes da Catástrofe",
+    "icone": "UI_RelicIcon_15005_2"
+   },
+   "sands": {
+    "en": "Hourglass of Thunder",
+    "pt": "Relógio do Trovão",
+    "icone": "UI_RelicIcon_15005_5"
+   },
+   "goblet": {
+    "en": "Omen of Thunderstorm",
+    "pt": "Profecia do Trovão",
+    "icone": "UI_RelicIcon_15005_1"
+   },
+   "circlet": {
+    "en": "Thunder Summoner's Crown",
+    "pt": "Coroa do Invocador do Trovão",
+    "icone": "UI_RelicIcon_15005_3"
+   }
+  }
+ },
+ {
+  "en": "Thundersoother",
+  "pt": "Lançador de Trovões",
+  "pecas": {
+   "flower": {
+    "en": "Thundersoother's Heart",
+    "pt": "Coração do Domador de Raios",
+    "icone": "UI_RelicIcon_14002_4"
+   },
+   "plume": {
+    "en": "Thundersoother's Plume",
+    "pt": "Pena do Domador de Raios",
+    "icone": "UI_RelicIcon_14002_2"
+   },
+   "sands": {
+    "en": "Hour of Soothing Thunder",
+    "pt": "Ápice do Domador de Raios",
+    "icone": "UI_RelicIcon_14002_5"
+   },
+   "goblet": {
+    "en": "Thundersoother's Goblet",
+    "pt": "Cálice do Domador de Raios",
+    "icone": "UI_RelicIcon_14002_1"
+   },
+   "circlet": {
+    "en": "Thundersoother's Diadem",
+    "pt": "Coroa do Domador de Raios",
+    "icone": "UI_RelicIcon_14002_3"
+   }
+  }
+ },
+ {
+  "en": "Unfinished Reverie",
+  "pt": "Reminiscência Incompleta",
+  "pecas": {
+   "flower": {
+    "en": "Dark Fruit of Bright Flowers",
+    "pt": "Fruto Sombrio de Flores Brilhantes",
+    "icone": "UI_RelicIcon_15036_4"
+   },
+   "plume": {
+    "en": "Faded Emerald Tail",
+    "pt": "Cauda de Esmeralda Desbotada",
+    "icone": "UI_RelicIcon_15036_2"
+   },
+   "sands": {
+    "en": "Moment of Attainment",
+    "pt": "Momento de Conquista",
+    "icone": "UI_RelicIcon_15036_5"
+   },
+   "goblet": {
+    "en": "The Wine-Flask Over Which the Plan Was Hatched",
+    "pt": "A Garrafa de Vinho Sobre a Qual o Plano Foi Concebido",
+    "icone": "UI_RelicIcon_15036_1"
+   },
+   "circlet": {
+    "en": "Crownless Crown",
+    "pt": "Coroa Descoroada",
+    "icone": "UI_RelicIcon_15036_3"
+   }
+  }
+ },
+ {
+  "en": "Vermillion Hereafter",
+  "pt": "Além-vida Cinábrio",
+  "pecas": {
+   "flower": {
+    "en": "Flowering Life",
+    "pt": "Brilho da Vitalidade",
+    "icone": "UI_RelicIcon_15023_4"
+   },
+   "plume": {
+    "en": "Feather of Nascent Light",
+    "pt": "Pena do Esplendor",
+    "icone": "UI_RelicIcon_15023_2"
+   },
+   "sands": {
+    "en": "Solar Relic",
+    "pt": "Relíquia do Sol",
+    "icone": "UI_RelicIcon_15023_5"
+   },
+   "goblet": {
+    "en": "Moment of the Pact",
+    "pt": "Entalhe do Contrato",
+    "icone": "UI_RelicIcon_15023_1"
+   },
+   "circlet": {
+    "en": "Thundering Poise",
+    "pt": "Postura Eletrizante",
+    "icone": "UI_RelicIcon_15023_3"
+   }
+  }
+ },
+ {
+  "en": "Viridescent Venerer",
+  "pt": "Sombra Verde",
+  "pecas": {
+   "flower": {
+    "en": "In Remembrance of Viridescent Fields",
+    "pt": "Lembrança de Flores Silvestres",
+    "icone": "UI_RelicIcon_15002_4"
+   },
+   "plume": {
+    "en": "Viridescent Arrow Feather",
+    "pt": "Pena de Flecha do Caçador Verde",
+    "icone": "UI_RelicIcon_15002_2"
+   },
+   "sands": {
+    "en": "Viridescent Venerer's Determination",
+    "pt": "Determinação do Caçador Verde",
+    "icone": "UI_RelicIcon_15002_5"
+   },
+   "goblet": {
+    "en": "Viridescent Venerer's Vessel",
+    "pt": "Frasco do Caçador Verde",
+    "icone": "UI_RelicIcon_15002_1"
+   },
+   "circlet": {
+    "en": "Viridescent Venerer's Diadem",
+    "pt": "Coroa do Caçador Verde",
+    "icone": "UI_RelicIcon_15002_3"
+   }
+  }
+ },
+ {
+  "en": "Vourukasha's Glow",
+  "pt": "Brilho Vourukasha",
+  "pecas": {
+   "flower": {
+    "en": "Stamen of Khvarena's Origin",
+    "pt": "Estame Primordial de Khvarena",
+    "icone": "UI_RelicIcon_15030_4"
+   },
+   "plume": {
+    "en": "Vibrant Pinion",
+    "pt": "Pluma do Cristal Reluzente",
+    "icone": "UI_RelicIcon_15030_2"
+   },
+   "sands": {
+    "en": "Ancient Abscission",
+    "pt": "Abscisão Antiga",
+    "icone": "UI_RelicIcon_15030_5"
+   },
+   "goblet": {
+    "en": "Feast of Boundless Joy",
+    "pt": "Cálice do Festival Alegre",
+    "icone": "UI_RelicIcon_15030_1"
+   },
+   "circlet": {
+    "en": "Heart of Khvarena's Brilliance",
+    "pt": "Coração do Brilho de Khvarena",
+    "icone": "UI_RelicIcon_15030_3"
+   }
+  }
+ },
+ {
+  "en": "Wanderer's Troupe",
+  "pt": "Trupe Itinerante",
+  "pecas": {
+   "flower": {
+    "en": "Troupe's Dawnlight",
+    "pt": "Luz Matinal da Orquestra",
+    "icone": "UI_RelicIcon_15003_4"
+   },
+   "plume": {
+    "en": "Bard's Arrow Feather",
+    "pt": "Pena de Flecha do Bardo",
+    "icone": "UI_RelicIcon_15003_2"
+   },
+   "sands": {
+    "en": "Concert's Final Hour",
+    "pt": "Queda de Cortina",
+    "icone": "UI_RelicIcon_15003_5"
+   },
+   "goblet": {
+    "en": "Wanderer's String-Kettle",
+    "pt": "Chaleira do Bardo",
+    "icone": "UI_RelicIcon_15003_1"
+   },
+   "circlet": {
+    "en": "Conductor's Top Hat",
+    "pt": "Chapéu do Comandante",
+    "icone": "UI_RelicIcon_15003_3"
+   }
+  }
+ }
+]
